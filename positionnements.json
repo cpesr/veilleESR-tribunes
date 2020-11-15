@@ -218,5 +218,49 @@
             "raw": "2020-01-29 00:00:00"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-40",
+        "type": "article-magazine",
+        "abstract": "Nous la devons aux maîtres de conférences qui font vivre nos universités. Je ne doute pas que le bureau de la CP-CNU saura se ressaisir et se rappeler que le cœur de sa mission n’est pas de se substituer au législateur et aux corps intermédiaires, mais bien de participer, dans le cadre des politiques publiques de l’Etat, à la qualité du recrutement et au suivi de carrière des enseignants-chercheurs.\n\nMa porte est ouverte.",
+        "container-title": "Le Monde",
+        "title": "Entre instance nationale et universités autonomes, le pari de la confiance",
+        "URL": "https://www.lemonde.fr/idees/article/2020/11/12/frederique-vidal-entre-instance-nationale-et-universites-autonomes-le-pari-de-la-confiance_6059511_3232.html",
+        "author": [
+            {
+                "literal": "Frédérique Vidal"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-12 00:00:00"
+        },
+        "note": "Très favorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-41",
+        "type": "personal_communication",
+        "abstract": "Sans recherche, notre société n’a pas d’avenir. Non seulement la loi de programmation de la recherche (LPR) en cours d’examen au Parlement repose sur un budget insincère, mais elle accélère la précarisation des jeunes chercheur·ses et aggrave les inégalités territoriales, au risque de créer des déserts scientifiques. Par cette pétition, nous appelons le Sénat et le Conseil constitutionnel à suspendre le processus législatif jusqu’à la production d’un nouveau texte répondant aux attentes de notre société.",
+        "container-title": "",
+        "title": "Suspendons la loi de programmation de la recherche : notre société exige beaucoup mieux !",
+        "URL": "https://loirecherche.wesign.it/fr",
+        "author": [
+            {
+                "literal": "Facs et labos en lutte / RogueESR / Sauvons l'Université / Université Ouverte"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-10-22 00:00:00"
+        },
+        "note": "Très défavorable"
     }
 ]
