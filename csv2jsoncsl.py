@@ -29,7 +29,7 @@ def format_zotpress(s):
 
 with open(args.csvfile, newline='', encoding="utf-8") as csvfile:
     rows = csv.DictReader(csvfile)
-    print(rows.fieldnames)
+    #print(rows.fieldnames)
     rows.fieldnames[0] = "ID"
 
     refs = []
