@@ -1,3 +1,4 @@
+['\ufeff"id"', 'submitdate', 'lastpage', 'startlanguage', 'seed', 'startdate', 'datestamp', 'ipaddr', 'refurl', 'titre', 'auteurs', 'destinataire', 'publication', 'date', 'type', 'type[other]', 'objet', 'objet[other]', 'catchphrase', 'position', 'url']
 [
     {
         "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-30",
@@ -64,28 +65,6 @@
             "raw": "2020-11-13 00:00:00"
         },
         "note": "Très défavorable"
-    },
-    {
-        "id": "-33",
-        "type": "personal_communication",
-        "abstract": "",
-        "container-title": "",
-        "title": "",
-        "URL": "",
-        "author": [
-            {
-                "literal": ""
-            }
-        ],
-        "recipient": [
-            {
-                "literal": ""
-            }
-        ],
-        "issued": {
-            "raw": ""
-        },
-        "note": ""
     },
     {
         "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-34",
@@ -264,50 +243,6 @@
         "note": "Très défavorable"
     },
     {
-        "id": "-42",
-        "type": "personal_communication",
-        "abstract": "",
-        "container-title": "",
-        "title": "",
-        "URL": "",
-        "author": [
-            {
-                "literal": ""
-            }
-        ],
-        "recipient": [
-            {
-                "literal": ""
-            }
-        ],
-        "issued": {
-            "raw": ""
-        },
-        "note": ""
-    },
-    {
-        "id": "-43",
-        "type": "personal_communication",
-        "abstract": "",
-        "container-title": "",
-        "title": "",
-        "URL": "",
-        "author": [
-            {
-                "literal": ""
-            }
-        ],
-        "recipient": [
-            {
-                "literal": ""
-            }
-        ],
-        "issued": {
-            "raw": ""
-        },
-        "note": ""
-    },
-    {
         "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-44",
         "type": "personal_communication",
         "abstract": "Le conseil d’administration de l’université de Tours, ce 15 juin 2020, confirme son analyse du 2 mars : la loi de programmation pluriannuelle relative à “la Recherche” (LPPR) dont le texte a été diffusé le 6 juin, aurait des impacts très négatifs sur l’ensemble de l’Université, ses missions, son organisation, comme les conditions d'emploi et de rémunération de ses personnels.",
@@ -374,3 +309,4 @@
         "note": "Très défavorable"
     }
 ]
+2020-09-16
