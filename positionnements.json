@@ -307,6 +307,94 @@
             "raw": "2020-11-14 00:00:00"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-52",
+        "type": "article-magazine",
+        "abstract": "Le moins qu’on puisse dire est que le projet de loi sur la recherche, tel qu’il vient d’être adopté par la commission mixte paritaire (CMP) après une lecture dans chaque assemblée est très loin de répondre à l’attente des universitaires.\nLe seul espoir sera un recours auprès du Conseil Constitutionnel.\nInutile d’ajouter que je signerai ce recours des deux mains!\nIl en va d’une certaine idée de l’Université.",
+        "container-title": "jpsueur.com",
+        "title": "Menaces sur les universités",
+        "URL": "https://www.jpsueur.com/index.php?option=com_content&view=article&id=12393:menaces-sur-les-universites&catid=51&Itemid=64",
+        "author": [
+            {
+                "literal": "Jean-Pierre Sueur"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16 00:00:00"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-54",
+        "type": "personal_communication",
+        "abstract": "La section CNU 25 se réserve la possibilité de retenir ses avis voire de suspendre l'intégralité de son activité sans évolution rapide de la situation actuelle et ré-affirmation positive des prérogatives de gestion des corps d'Etat qui sont les siennes.",
+        "container-title": "",
+        "title": "Motion de la section CNU 25 du 16 novembre 2020",
+        "URL": "http://cnu25.emath.fr/Motion-CNU25-161120.pdf",
+        "author": [
+            {
+                "literal": "Section CNU 25"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16 00:00:00"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-55",
+        "type": "personal_communication",
+        "abstract": "",
+        "container-title": "Université Côte d'Azur",
+        "title": "Motion relative à la LPR de la Faculté de droit et science politique de Nice (EUR LexSociété Université Côte d'Azur)",
+        "URL": "http://unice.fr/faculte-de-droit-et-science-politique",
+        "author": [
+            {
+                "literal": "Enseignants-chercheurs de la Faculté de droit et science politique de Nice (EUR LexSociété Université Côte d'Azur)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16 00:00:00"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-57",
+        "type": "personal_communication",
+        "abstract": "À travers la qualification, nous défendons l’existence d’un statut national d’enseignant-chercheur, indispensable à la garantie d’un service public d’enseignement supérieur d’égale qualité sur l’ensemble du territoire. Les signataires appellent instamment la Commission mixte paritaire du Sénat et de l’Assemblée nationale à supprimer cet amendement et à revenir d’urgence sur une décision inconsidérée, prise sans concertation aucune avec les instances représentatives telles que le CNU et le CNESER, qui met gravement en péril le statut national et le caractère équitable de la gestion des carrières des enseignants-chercheurs.",
+        "container-title": "",
+        "title": "Non à la suppression de la qualification par le CNU",
+        "URL": "https://www.change.org/p/enseignants-chercheurs-non-%C3%A0-la-suppression-de-la-qualification-par-le-cnu",
+        "author": [
+            {
+                "literal": "Sylvie BAUER"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-10-29 00:00:00"
+        },
+        "note": "Très défavorable"
     }
 ]
 2020-09-16
