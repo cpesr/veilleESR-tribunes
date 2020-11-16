@@ -24,7 +24,7 @@
     {
         "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-31",
         "type": "personal_communication",
-        "abstract": "Nous demandons ainsi une tout autre LPPR avec : \n  \n- la mise en place d’un plan pluriannuel de recrutement sur des postes \npérennes à toutes les fonctions de l'ESR pour que cessent la précarisation \net ses nombreux effets délétères sur les collectifs de recherche ; \n  \n- l’augmentation des budgets au profit du soutien de base des laboratoires \npour que la recherche sur projets ne devienne pas le seul mode de \nfinancement et que puisse continuer à se développer une recherche \npublique de temps long, motivée par la curiosité scientifique, non obérée \ndu temps passé à écrire des demandes de financement.",
+        "abstract": "Nous demandons ainsi une tout autre LPPR avec : \n \n- la mise en place d’un plan pluriannuel de recrutement sur des postes \npérennes à toutes les fonctions de l'ESR pour que cessent la précarisation \net ses nombreux effets délétères sur les collectifs de recherche ; \n \n- l’augmentation des budgets au profit du soutien de base des laboratoires \npour que la recherche sur projets ne devienne pas le seul mode de \nfinancement et que puisse continuer à se développer une recherche \npublique de temps long, motivée par la curiosité scientifique, non obérée \ndu temps passé à écrire des demandes de financement.",
         "container-title": "",
         "title": "Motion de l'IBPC sur la LPPR",
         "URL": "http://www.ibpc.fr/upload/Contenu/Documents/actualit%C3%A9s/LPPR-motion-IBPC.pdf",
@@ -48,7 +48,7 @@
         "type": "personal_communication",
         "abstract": "",
         "container-title": "Université de Clermont-Ferrand",
-        "title": "Motion « Une dégradation continue d’un modèle universitaire qui rayonnait pourtant à travers le monde »",
+        "title": "Motion Une dégradation continue d’un modèle universitaire qui rayonnait pourtant à travers le monde",
         "URL": "https://academia.hypotheses.org/28397",
         "author": [
             {
@@ -200,7 +200,7 @@
     {
         "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-39",
         "type": "personal_communication",
-        "abstract": "Nous déplorons enfin la conception étroite, utilitariste et court-termiste du savoir et de la science qui plombe l’ensemble  de  ces  rapports,  risquant  de  conduire  à la  raréfaction,  voire à l’abandon  de l’enseignement  et  de  la  recherche  dans des disciplines  ou  domaines aussi  fondamentaux  que les Sciences Humaines et les Arts",
+        "abstract": "Nous déplorons enfin la conception étroite, utilitariste et court-termiste du savoir et de la science qui plombe l’ensemble de ces rapports, risquant de conduire à la raréfaction, voire à l’abandon de l’enseignement et de la recherche dans des disciplines ou domaines aussi fondamentaux que les Sciences Humaines et les Arts",
         "container-title": "Université Rennes 2",
         "title": "Motion du département des arts du spectacle–le mercredi 29 janvier 2020.",
         "URL": "https://intranet.univ-rennes2.fr/system/files/UHB/UFR-ALC/motion_du_departement_des_arts_du_spectacle.pdf",
@@ -246,7 +246,7 @@
         "type": "personal_communication",
         "abstract": "Sans recherche, notre société n’a pas d’avenir. Non seulement la loi de programmation de la recherche (LPR) en cours d’examen au Parlement repose sur un budget insincère, mais elle accélère la précarisation des jeunes chercheur·ses et aggrave les inégalités territoriales, au risque de créer des déserts scientifiques. Par cette pétition, nous appelons le Sénat et le Conseil constitutionnel à suspendre le processus législatif jusqu’à la production d’un nouveau texte répondant aux attentes de notre société.",
         "container-title": "",
-        "title": "Suspendons la loi de programmation de la recherche : notre société exige beaucoup mieux !",
+        "title": "Suspendons la loi de programmation de la recherche : notre société exige beaucoup mieux!",
         "URL": "https://loirecherche.wesign.it/fr",
         "author": [
             {
@@ -260,6 +260,116 @@
         ],
         "issued": {
             "raw": "2020-10-22 00:00:00"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "-42",
+        "type": "personal_communication",
+        "abstract": "",
+        "container-title": "",
+        "title": "",
+        "URL": "",
+        "author": [
+            {
+                "literal": ""
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": ""
+        },
+        "note": ""
+    },
+    {
+        "id": "-43",
+        "type": "personal_communication",
+        "abstract": "",
+        "container-title": "",
+        "title": "",
+        "URL": "",
+        "author": [
+            {
+                "literal": ""
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": ""
+        },
+        "note": ""
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-44",
+        "type": "personal_communication",
+        "abstract": "Le conseil d’administration de l’université de Tours, ce 15 juin 2020, confirme son analyse du 2 mars : la loi de programmation pluriannuelle relative à “la Recherche” (LPPR) dont le texte a été diffusé le 6 juin, aurait des impacts très négatifs sur l’ensemble de l’Université, ses missions, son organisation, comme les conditions d'emploi et de rémunération de ses personnels.",
+        "container-title": "Université de Tours",
+        "title": "Motion du conseil d'administration de l'université de Tours contre la LPPR",
+        "URL": "https://www.univ-tours.fr/medias/fichier/de-libe-ration-n-2020-33-approuvant-le-compte-rendu-du-ca-du-15-juin-2020_1594974167641-pdf?ID_FICHE=14412&INLINE=TRUE",
+        "author": [
+            {
+                "literal": "Conseil d'administration de l'université de Tours"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-06-15 00:00:00"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-45",
+        "type": "article-magazine",
+        "abstract": "Adoptée le 9 novembre en Commission mixte paritaire, la Loi de programmation de la recherche (LPR) aborde la dernière ligne droit de son parcours législatif. Parmi ses dispositions, l’article 3 prévoit de restreindre la procédure de qualification par le Conseil national des universités, et d’autoriser donc les recrutements hors-CNU. L’objectif affiché est de favoriser l’apparition d’universités plus autonomes, libres et responsables. Dans la réalité, elle risque de démanteler le statut national des enseignants-chercheur, et donc d’attenter à l’autonomie et à l’exigence de la recherche.",
+        "container-title": "AOC",
+        "title": "Sauver le Conseil national des universités pour préserver l’autonomie des universitaires",
+        "URL": "https://aoc.media/opinion/2020/11/15/sauver-le-conseil-national-des-universites-pour-preserver-lautonomie-des-universitaires",
+        "author": [
+            {
+                "literal": "Frédéric Sawicki et Olivier Nay"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16 00:00:00"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-47",
+        "type": "article-magazine",
+        "abstract": "La disparition programmée du Conseil national des universités heurte frontalement des principes fondamentaux de notre République, celui de la promotion au mérite, de l'unité et de l'indivisibilité du statut des enseignants-chercheurs, et de l'équivalence des recrutements des universitaires au sein de la République. C'est une évolution désastreuse, qui ouvre la voie à des recrutements et à des promotions motivés par des préoccupations éloignées des mérites scientifiques et académiques qui, seuls, devraient en principe animer l'accès aux corps des enseignants-chercheurs, que garantit l'existence d'une instance nationale, indépendante et impartiale. Le primat du localisme sur les mérites individuels est ainsi consolidé. \nCertes, le fonctionnement du CNU n'est pas à l'abri de la critique. Mais sa suppression brutale ne peut en aucun cas être considérée comme la solution aux difficultés qu'il rencontre.",
+        "container-title": "Journal du dimanche",
+        "title": "Il faut défendre le Conseil national des universités",
+        "URL": "https://www.lejdd.fr/Societe/Education/tribune-il-faut-defendre-le-conseil-national-des-universites-4005651",
+        "author": [
+            {
+                "literal": "Quarante doyens et présidents de section"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-14 00:00:00"
         },
         "note": "Très défavorable"
     }

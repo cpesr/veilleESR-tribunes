@@ -2,12 +2,28 @@
 import sys
 import csv
 import json
+import argparse
+import re
 
-if len(sys.argv) < 2:
-    print("Usage: python3 csv2jsoncls.py csvfile")
-    sys.exit(1)
 
-with open(sys.argv[1], newline='', encoding="utf-8") as csvfile:
+parser = argparse.ArgumentParser(description='Convertit les données issues du formulaire de référencement de tribunes et motions')
+parser.add_argument('csvfile',
+                   help='Le fichier csv de réponses au formulaire limesurvey')
+parser.add_argument('--zotpress', dest='zotpress', action='store_const',
+                   const=True, default=False,
+                   help='Formate la sortie pour être compatible avec zotpress')
+
+args = parser.parse_args()
+
+def format_zotpress(s):
+    return(
+        re.sub(' +', ' ',
+        re.sub(r'\s([?.!"](?:\s|$))', r'\1',
+        s.replace("« ","").replace(" »","")))
+        )
+
+
+with open(args.csvfile, newline='', encoding="utf-8") as csvfile:
     rows = csv.DictReader(csvfile)
     #print(rows.fieldnames)
     rows.fieldnames[0] = "ID"
@@ -29,6 +45,11 @@ with open(sys.argv[1], newline='', encoding="utf-8") as csvfile:
             "issued"          : {"raw":row["date"]},
             "note"            : row["position"]
             }
+
+        if args.zotpress:
+            for e in ref:
+                if isinstance(ref[e], str) : ref[e] = format_zotpress(ref[e]) 
+
         refs.append(ref)
 
 print(json.dumps(refs, indent=4, ensure_ascii=False))
