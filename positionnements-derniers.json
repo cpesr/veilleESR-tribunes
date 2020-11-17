@@ -108,5 +108,27 @@
             "raw": "2020-11-17"
         },
         "note": "Plutôt favorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-84",
+        "type": "personal_communication",
+        "abstract": "L’Assemblée générale de la Faculté de droit et des sciences sociales de l’Université de Poitiers décide d’apporter son soutien à l’ensemble des initiatives, locales et nationales, visant à contester la loi avant son adoption.",
+        "container-title": "Université de Poitiers",
+        "title": "Motion de la Faculté de droit et des sciences sociales de Poitiers",
+        "URL": "https://droit.univ-poitiers.fr/",
+        "author": [
+            {
+                "literal": "Assemblée générale des enseignants-chercheurs et des doctorants"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16"
+        },
+        "note": "Très défavorable"
     }
 ]
