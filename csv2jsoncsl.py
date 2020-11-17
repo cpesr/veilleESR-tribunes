@@ -53,7 +53,7 @@ with open(args.csvfile, newline='', encoding="utf-8") as csvfile:
             "URL"             : row["url"],
             "author"          : [{"literal":row["auteurs"]}],
             "recipient"       : [{"literal":row["destinataire"]}],
-            "issued"          : {"raw":row["date"]},
+            "issued"          : {"raw":row["date"][0:10]},
             "note"            : row["position"]
             }
 
