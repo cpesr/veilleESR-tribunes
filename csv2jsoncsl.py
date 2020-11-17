@@ -15,6 +15,10 @@ parser.add_argument('--zotpress', dest='zotpress', action='store_const',
 parser.add_argument('--mindate',
                    default="0000",
                    help='Date de soumision du formulaire à partir de laquelle convertir les données (format yyyy-mm-dd)')
+parser.add_argument('--minid',
+                   default=0, type=int,
+                   help='Identifiant de la réponse à partir duquel convertir les données')
+
 
 args = parser.parse_args()
 
@@ -35,6 +39,7 @@ with open(args.csvfile, newline='', encoding="utf-8") as csvfile:
     refs = []
     for row in rows:
         if row["submitdate"] < args.mindate: continue
+        if int(row["ID"]) < args.minid: continue
 
         if row["objet"] == "Autre": row["objet"] = row['objet[other]']
         if row["type"] == "Autre": row["type"] = row['type[other]']
@@ -59,4 +64,3 @@ with open(args.csvfile, newline='', encoding="utf-8") as csvfile:
         refs.append(ref)
 
 print(json.dumps(refs, indent=4, ensure_ascii=False))
-print(args.mindate)

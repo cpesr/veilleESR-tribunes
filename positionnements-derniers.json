@@ -1,14 +1,14 @@
 [
     {
-        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-64",
-        "type": "article-magazine",
-        "abstract": "\"Mardi 17 novembre, l’Assemblée nationale vote la loi de programmation pluriannuelle de la recherche (LPPR) pour les années 2021 à 2030. A l’abri du débat parlementaire, les sénateurs et députés ont introduit un amendement qui criminalise les luttes sociales étudiantes. Cela s’inscrit dans un tournant autoritaire et une politique faite contre les étudiants et plus généralement contre la jeunesse.\"",
-        "container-title": "L'Insoumission",
-        "title": "\"LPPR : Macron criminalise la contestation étudiante et écrase la jeunesse\"",
-        "URL": "https://linsoumission.fr/2020/11/16/lprr-macron-criminalise-la-contestation-etudiante-et-ecrase-la-jeunesse/",
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-78",
+        "type": "personal_communication",
+        "abstract": "Les sections du CNU, dont les présidentes et présidents se sont réuni.e.s lundi 16 novembre\ndemandent le retrait de l’article 3 bis assorti du lancement d’une concertation sur les\nprocédures de recrutement des enseignants-chercheurs.\nDans l’attente de ce retrait, les sections du CNU suspendent leurs activités ce jour et jusqu’à\nnouvel ordre.",
+        "container-title": "",
+        "title": "Communiqué du CNU",
+        "URL": "https://academia.hypotheses.org/28591",
         "author": [
             {
-                "literal": "Damien Maudet"
+                "literal": "CNU"
             }
         ],
         "recipient": [
@@ -22,130 +22,42 @@
         "note": "Très défavorable"
     },
     {
-        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-65",
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-79",
         "type": "personal_communication",
-        "abstract": "\"(...) Nous, étudiant·e·s, professeur·e·s, personnel·le·s de l’ESR, élu·e·s, citoyen·ne·s, nous nous opposons à une énième dérive autoritaire dans l’enseignement supérieur qui est la représentation même des actions du gouvernement et de sa vision de la société. Nous exigeons la suppression de cette disposition et continuons à réclamer le retrait de la LPR.\"",
+        "abstract": "Nous ne pouvons nous satisfaire de l’absence de réponse. L’issue de la réunion n’est pas à la hauteur\ndu message délivré par notre communauté qui réclame l’abandon pur et simple des possibilités\nouvertes par l’article 3 bis et non son seul redressement par la voie réglementaire. Du fait de la\nposture de madame Frédérique Vidal, la situation est bloquée.\nNous demandons donc votre intervention. ",
         "container-title": "",
-        "title": "Pétition \"NON à l’interdiction de manifester dans les universités !\"",
-        "URL": "https://www.change.org/p/fr%C3%A9d%C3%A9rique-vidal-ministre-de-l-enseignement-sup%C3%A9rieur-de-la-recherche-et-de-l-innovation-non-%C3%A0-l-interdiction-de-manifester-dans-les-universit%C3%A9s",
+        "title": "Entretien avec Madame Frédérique Vidal, les Présidents des sections du Groupe 1 du CNU et le Président de la conférence des doyens des facultés de droit et de science politique ",
+        "URL": "https://academia.hypotheses.org/28578",
         "author": [
             {
-                "literal": "L’Alternative (Union syndicale et associative étudiante)"
+                "literal": "CNU Groupe 1 et Conférence des doyens des facultés de droit et de science politique "
             }
         ],
         "recipient": [
             {
-                "literal": "Frédérique Vidal"
+                "literal": "Président de la République et Premier Ministre"
             }
         ],
         "issued": {
-            "raw": "2020-11-14 00:00:00"
+            "raw": "2020-11-16 00:00:00"
         },
         "note": "Très défavorable"
     },
     {
-        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-68",
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-80",
         "type": "personal_communication",
-        "abstract": "Nous, anthropologues et ethnologues, maintenons notre opposition ferme à la loi de programmation de la recherche aujourd'hui proche de l'adoption définitive. \n\nNous condamnons l'introduction de dernière minute de plusieurs amendements, notamment la décision de supprimer le rôle des sections du Conseil National des Universités dans les qualifications alors qu'elles garantissent le traitement national des statuts et des concours des enseignants-chercheurs et enseignantes-chercheuses. \n",
+        "abstract": "Au-delà des désaccords profonds sur lesquels l'ensemble des organisations syndicales se sont déjà\nlargement exprimées, nous vous alertons tout particulièrement sur deux amendements très\nproblématiques introduits lors de son passage au Sénat et validés par la Ministre de l’enseignement\nsupérieur, de la recherche et de l’innovation Frédérique Vidal, sans que leurs objets n’aient été\nintégrés dans les différentes consultations préalables avec les organisations syndicales et\nprofessionnelles et n’aient fait l’objet de débats.",
         "container-title": "",
-        "title": "lettres aux parlementaires",
-        "URL": " https://hebdo.framapad.org/p/texte-anthropo-ethno-cnu-et-lpr-9k28?lang=fr ",
+        "title": "Demande de rendez-vous en urgence au sujet du vote de la loi de programmation de la recherche par l’assemblée nationale mardi 17/11/20",
+        "URL": "https://f-origin.hypotheses.org/wp-content/blogs.dir/793/files/2020/11/courrier_commun_demande_rdv_LPR-1.pdf",
         "author": [
             {
-                "literal": "CA de l'AFEA Association Française d'ethnologie et d'anthropologie"
+                "literal": "Intersyndicale"
             }
         ],
         "recipient": [
             {
-                "literal": "députés et sénateurs"
-            }
-        ],
-        "issued": {
-            "raw": "2020-11-16 00:00:00"
-        },
-        "note": "Très défavorable"
-    },
-    {
-        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-69",
-        "type": "personal_communication",
-        "abstract": "Madame la ministre de l'Enseignement Supérieur, de la Recherche et de l'Innovation aime à rappeler que cette loi a reçu des avis positifs en passant sous silence les conditions dans lesquelles ceux-ci ont été obtenus et les avis négatifs exprimés par tant d'autres : Conseil économique, social et environnemental, Comité national de la recherche scientifique, Comité d'éthique du CNRS, Haut conseil à l'Egalité entre les femmes et les hommes, Sociétés savantes, Commission permanente du Conseil national des universités, etc.\n\nCette loi a ainsi été élaborée en contrevenant au Code de la recherche qui prévoit que \"les choix en matière de programmation et d’orientation des actions de recherche sont arrêtés après une concertation étroite avec la communauté scientifique\" (article L111-6).\n\nNous espérons pouvoir compter sur votre soutien pour rejeter ce texte au nom des principes de notre République et de la défense de la recherche et de l’enseignement supérieur comme biens communs essentiels au bon fonctionnement de notre société.",
-        "container-title": "Site web de l'Assemblée des directions de laboratoires",
-        "title": "Les directions de laboratoires contre la LPR",
-        "URL": "https://adl.frama.site/blog/les-directions-de-laboratoires-contre-la-lpr",
-        "author": [
-            {
-                "literal": "Assemblée des directions de laboratoires"
-            }
-        ],
-        "recipient": [
-            {
-                "literal": "Les parlementaires de la République française"
-            }
-        ],
-        "issued": {
-            "raw": "2020-11-16 00:00:00"
-        },
-        "note": "Très défavorable"
-    },
-    {
-        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-70",
-        "type": "personal_communication",
-        "abstract": "",
-        "container-title": "",
-        "title": "Motion de la section 27 du CNU du 16 novembre 2020",
-        "URL": "https://cnu27.univ-lille.fr/motions/cnu27-motion-20201116-lpr.pdf",
-        "author": [
-            {
-                "literal": "Section 27 du CNU"
-            }
-        ],
-        "recipient": [
-            {
-                "literal": ""
-            }
-        ],
-        "issued": {
-            "raw": "2020-11-16 00:00:00"
-        },
-        "note": "Très défavorable"
-    },
-    {
-        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-72",
-        "type": "personal_communication",
-        "abstract": "Cette loi a ainsi été élaborée en contrevenant au Code de la recherche qui prévoit que \"les choix en matière de programmation et d’orientation des actions de recherche sont arrêtés après une concertation étroite avec la communauté scientifique\" (article L111-6). Nous espérons pouvoir compter sur votre soutien pour rejeter ce texte au nom des principes de notre République et de la défense de la recherche et de l’enseignement supérieur comme biens communs essentiels au bon fonctionnement de notre société.",
-        "container-title": "Site de l'ADL",
-        "title": "Les directions de laboratoires contre la LPR",
-        "URL": "https://adl.frama.site/blog/les-directions-de-laboratoires-contre-la-lpr",
-        "author": [
-            {
-                "literal": "Assemblée des directions de laboratoires"
-            }
-        ],
-        "recipient": [
-            {
-                "literal": "Parlementaires"
-            }
-        ],
-        "issued": {
-            "raw": "2020-11-16 00:00:00"
-        },
-        "note": "Très défavorable"
-    },
-    {
-        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-73",
-        "type": "personal_communication",
-        "abstract": "Le conseil de laboratoire de l’Institut de Mathématiques de Toulouse réuni le lundi 16 novembre 2020 rappelle sa profonde opposition au projet de loi de programmation pluriannuelle de la recherche exprimée par une motion votée le 6 juillet 2020. Il constate que ses inquiétudes et recommandations ne sont pas prises en compte dans la version actuelle du texte sorti de la Commission Mixte Paritaire (CMP). Au contraire, de nouvelles dispositions introduites par le sénat et aggravées par la CMP exacerbent son opposition à ce projet de loi.\nLe conseil de laboratoire s’associe ainsi aux motions votées par les CNU 1 à 4, de droit et sciences politiques et par le CNU 25 et 26 en mathématiques.",
-        "container-title": "Université Toulouse 3 - Paul Sabatier",
-        "title": "Motion votée au conseil de laboratoire de l'Institut de Mathématiques de Toulouse",
-        "URL": "https://www.math.univ-toulouse.fr/spip.php?article1044",
-        "author": [
-            {
-                "literal": "Conseil de laboratoire de  l'Institut de Mathématiques de Toulouse"
-            }
-        ],
-        "recipient": [
-            {
-                "literal": ""
+                "literal": "Premier Ministre"
             }
         ],
         "issued": {

@@ -614,5 +614,71 @@
             "raw": "2020-11-16 00:00:00"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-78",
+        "type": "personal_communication",
+        "abstract": "Les sections du CNU, dont les présidentes et présidents se sont réuni.e.s lundi 16 novembre\ndemandent le retrait de l’article 3 bis assorti du lancement d’une concertation sur les\nprocédures de recrutement des enseignants-chercheurs.\nDans l’attente de ce retrait, les sections du CNU suspendent leurs activités ce jour et jusqu’à\nnouvel ordre.",
+        "container-title": "",
+        "title": "Communiqué du CNU",
+        "URL": "https://academia.hypotheses.org/28591",
+        "author": [
+            {
+                "literal": "CNU"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16 00:00:00"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-79",
+        "type": "personal_communication",
+        "abstract": "Nous ne pouvons nous satisfaire de l’absence de réponse. L’issue de la réunion n’est pas à la hauteur\ndu message délivré par notre communauté qui réclame l’abandon pur et simple des possibilités\nouvertes par l’article 3 bis et non son seul redressement par la voie réglementaire. Du fait de la\nposture de madame Frédérique Vidal, la situation est bloquée.\nNous demandons donc votre intervention. ",
+        "container-title": "",
+        "title": "Entretien avec Madame Frédérique Vidal, les Présidents des sections du Groupe 1 du CNU et le Président de la conférence des doyens des facultés de droit et de science politique ",
+        "URL": "https://academia.hypotheses.org/28578",
+        "author": [
+            {
+                "literal": "CNU Groupe 1 et Conférence des doyens des facultés de droit et de science politique "
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Président de la République et Premier Ministre"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16 00:00:00"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-80",
+        "type": "personal_communication",
+        "abstract": "Au-delà des désaccords profonds sur lesquels l'ensemble des organisations syndicales se sont déjà\nlargement exprimées, nous vous alertons tout particulièrement sur deux amendements très\nproblématiques introduits lors de son passage au Sénat et validés par la Ministre de l’enseignement\nsupérieur, de la recherche et de l’innovation Frédérique Vidal, sans que leurs objets n’aient été\nintégrés dans les différentes consultations préalables avec les organisations syndicales et\nprofessionnelles et n’aient fait l’objet de débats.",
+        "container-title": "",
+        "title": "Demande de rendez-vous en urgence au sujet du vote de la loi de programmation de la recherche par l’assemblée nationale mardi 17/11/20",
+        "URL": "https://f-origin.hypotheses.org/wp-content/blogs.dir/793/files/2020/11/courrier_commun_demande_rdv_LPR-1.pdf",
+        "author": [
+            {
+                "literal": "Intersyndicale"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Premier Ministre"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16 00:00:00"
+        },
+        "note": "Très défavorable"
     }
 ]
