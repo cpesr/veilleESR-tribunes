@@ -161,18 +161,21 @@ def make_chart(refs, objet):
         if pct != 0: return '{:.0f}'.format( pct * total / 100 )
         else: return ''
 
-    plot = counts.plot(kind="pie",colormap=cm, figsize=(5,2.8125), labels=None,
-                       autopct=lambda pct: pctfunc(pct),
-                       textprops=dict(color="w", weight='bold',fontsize=14))
+    plot = counts.plot(kind="pie",colormap=cm, figsize=(5,2.8125),
+                       labels=counts,
+                       #labels=None, autopct=lambda pct: pctfunc(pct),
+                       #textprops=dict(color="w", weight='bold',fontsize=14)
+                       )
 
     #box = plot.get_position()
     #plot.set_position([box.x0, box.y0, box.width * 0.8, box.height])
 
-    plt.suptitle(objet)
-    plt.legend(loc='center left', bbox_to_anchor=(1,0.5), labels=cat.categories.values)
-    plt.subplots_adjust(left=0.0, right=0.66)
+    plt.suptitle(objet,y=0.93)
+    plt.legend(loc='center left', bbox_to_anchor=(1.1,0.5), labels=cat.categories.values)
+    plt.subplots_adjust(left=0.0, right=0.60, top=0.9, bottom=0.0)
     plt.axis('off')
-    plt.savefig(slugify(objet)+'.png')
+    #plt.show()
+    plt.savefig(slugify(objet)+'.png', dpi=300)
     print(counts)
 
 
