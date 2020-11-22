@@ -1217,5 +1217,74 @@
             "raw": "2020-11-20"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-249",
+        "type": "personal_communication",
+        "letterType": "Pétition",
+        "abstract": "Toutes les dispositions créées depuis 1999 en matière d’enseignement supérieur et de recherche seront examinées de façon rétrospective par la mission de contrôle sénatoriale à l’aune des principes constitutionnels d’égalité des citoyens et de cohésion économique, sociale et territoriale. Cette évaluation permettra de prendre la juste mesure de leurs effets et ainsi d’orienter l’action présente et future du gouvernement.",
+        "container-title": "Sénat",
+        "title": "Mission de contrôle des impacts des politiques de la recherche et de l’enseignement supérieur sur la cohésion territoriale en France.",
+        "URL": "https://petitions.senat.fr/initiatives/i-483",
+        "author": [
+            {
+                "literal": "Claude GRASLAND (Sénat )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-17"
+        },
+        "note": "Neutre"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-250",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Au lieu de l’hyper-compétition, placer le bien-être au cœur de l’ESR pourrait se révéler un choix beaucoup plus innovant et beaucoup plus judicieux. Une stabilité et une indépendance apportées par des emplois pérennes en début de carrière, un fonctionnement collégial et démocratique grâce à des instances avec des représentants des universitaires, ainsi que d’autres caractéristiques du système français, constituent une excellente base pour mener à bien une telle transformation. Il serait regrettable que nos dirigeants préfèrent mettre fin à ces caractéristiques, que d’ailleurs bon nombre de collègues étrangers nous envient et qui explique l’attractivité du système français malgré ses difficultés.",
+        "container-title": "Blogs Médiapart",
+        "title": "Loi Pour la Recherche (LPR) : conséquences pour la qualité de vie au travail ?",
+        "URL": "https://blogs.mediapart.fr/gmarais/blog/181120/loi-pour-la-recherche-lpr-consequences-pour-la-qualite-de-vie-au-travail",
+        "author": [
+            {
+                "literal": "Gabriel Marais, Pascale Haag, Jean-Philippe Rodrigues et Rebecca Shankland"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-18"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-251",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "L’Assemblée nationale doit adopter ce mercredi la dernière version du projet de loi de programmation pour la recherche. Un des amendements permet aux universités de recruter directement des professeurs et fait débat. Si un appel à la grève a été lancé, le président de l’Unistra défend cette adaptation.",
+        "container-title": "Dernières Nouvelles d'Alsace (DNA)",
+        "title": "La réforme du recrutement fait débat, le président de l'Unistra défend la mesure",
+        "URL": "https://www.dna.fr/education/2020/11/17/la-reforme-du-recrutement-fait-debat",
+        "author": [
+            {
+                "literal": "Michel Deneken"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-17"
+        },
+        "note": "Plutôt favorable"
     }
 ]
