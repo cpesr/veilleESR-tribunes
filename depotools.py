@@ -150,7 +150,7 @@ def update_zotero(refs, libid, colid, apikey):
 
 def make_chart(refs, objet):
     df = pd.DataFrame(refs)
-    cat = pd.CategoricalDtype(categories=['Très favorable','Favorable','Neutre','Défavorable','Très défavorable'],
+    cat = pd.CategoricalDtype(categories=['Très favorable','Plutôt favorable','Neutre','Plutôt défavorable','Très défavorable'],
                                   ordered = True)
     df.position = df.position.astype(cat)
     counts = df.loc[df['objet'] == objet].position.value_counts(sort=False)
