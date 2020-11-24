@@ -1285,6 +1285,29 @@
         "issued": {
             "raw": "2020-11-17"
         },
-        "note": "Plutôt favorable"
+        "note": "Très favorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-256",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Trop c’est trop ! Non, votre porte n’est pas ouverte comme vous le dites, vous nous l’avez claquée au nez ! Vous avez réussi à nous mettre dans un état de colère froide, nous, Sup ’Recherche-UNSA, un syndicat réformiste et négociateur. \n\n",
+        "container-title": "http://sup-recherche.org/",
+        "title": "Lettre ouverte à la ministre : Trop, c’est trop!",
+        "URL": "http://sup-recherche.org/actus/lettre-ouverte-a-la-ministre-trop-cest-trop/",
+        "author": [
+            {
+                "literal": " Secrétariat National Sup’Recherche – UNSA  (http://sup-recherche.org/ )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Frédérique Vidal"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-18"
+        },
+        "note": "Très défavorable"
     }
 ]
