@@ -1309,5 +1309,120 @@
             "raw": "2020-11-18"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-258",
+        "type": "personal_communication",
+        "letterType": "Lettre ouverte",
+        "abstract": "C’est pourquoi nous vous appelons solennellement à demander au Parlement, sur le fondement de l’article 10, alinéa 2 de la Constitution, de procéder à une nouvelle délibération de la loi afin que puissent se tenir un débat véritablement démocratique et un dialogue permettant d’aboutir à l’adoption d’un plan massif de recrutements de personnels titulaires, à l’augmentation substantielle de moyens de financement pérennes de la recherche, au rétablissement du CNU dans ses fonctions et à l’amélioration de son fonctionnement. Ce sont de ces mesures dont a réellement besoin le service public de l’enseignement supérieur et de la recherche.\n",
+        "container-title": "Le Monde",
+        "title": "Les conditions de préparation et d’adoption du projet de loi de programmation de la recherche sont indignes de la réforme dont nous avons besoin",
+        "URL": "https://www.lemonde.fr/idees/article/2020/11/25/les-conditions-de-preparation-et-d-adoption-du-projet-de-loi-de-programmation-de-la-recherche-sont-indignes-de-la-reforme-dont-nous-avons-besoin_6061022_3232.html",
+        "author": [
+            {
+                "literal": "4600 chercheurs (Le Monde )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Président de la République,"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-26"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-261",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "L'AUREF désapprouve la manière dont est engagée une réforme importante du recrutement des enseignants-chercheurs.",
+        "container-title": "",
+        "title": "LPR et suppression que la qualification",
+        "URL": "https://twitter.com/AUREF4/status/1324702233024450563",
+        "author": [
+            {
+                "literal": "Alliance des universités de recherche et de formation (AUREF)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-06"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-263",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le CS exprime sa profonde déception devant un texte de loi si éloigné des propositions qui ont été émises, en concertation avec les principaux acteurs de la recherche en France, avant et pendant le processus législatif.",
+        "container-title": "",
+        "title": "Recommandation sur la loi de programmation de la recherche (LPR)",
+        "URL": "https://twitter.com/Sebastien_Nadot/status/1331692082210230273",
+        "author": [
+            {
+                "literal": "Conseil scientifique du CNRS"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-17"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-266",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous demandons des moyens budgétaires récurrents pour les laboratoires et des postes pour avoir un niveau de recrutement à la hauteur des besoins de la recherche et de l’enseignement supérieur, améliorer les conditions de travail et résorber la précarité.",
+        "container-title": "",
+        "title": "Motion LPR UBO",
+        "URL": "https://pbs.twimg.com/media/En0GJ7wXYAAK5W8?format=jpg&name=medium",
+        "author": [
+            {
+                "literal": "Conseils de l'UBO"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-26"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPR/LPR_Loi_de_programmation_de_la_recherche_(2020)-268",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Si elle était promulguée telle quelle, la LPPR serait un raté supplémentaire dans la triste histoire des lois relatives aux universités depuis Mai 68. C’est bien le signe d’une France indifférente à l’avenir de l’université, depuis trop longtemps considérée comme la voiture-balai de l’enseignement supérieur.\n\n",
+        "container-title": "Le Monde",
+        "title": "Loi pluriannelle de programmation de la recherche : « Un raté supplémentaire dans la triste histoire des lois relatives aux universités depuis Mai 68 »",
+        "URL": "https://www.lemonde.fr/idees/article/2020/11/25/loi-pluriannelle-de-programmation-de-la-recherche-un-rate-supplementaire-dans-la-triste-histoire-des-lois-relatives-aux-universites-depuis-mai-68_6061020_3232.html",
+        "author": [
+            {
+                "literal": "Olivier Beaud et Cécile Guérin-Bargues"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-25"
+        },
+        "note": "Très défavorable"
     }
 ]
