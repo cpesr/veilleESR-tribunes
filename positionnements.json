@@ -1493,5 +1493,28 @@
             "raw": "2020-11-25"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-427",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Le vice originel et majeur de la réforme est la baisse du volume horaire, par année d'enseignement, qu'elle induit. La métamorphose du DUT actuel en BUT se fait quasiment à volume horaire constant.  En d'autres termes, on passe d'un bac+2 à un bac +3 avec un nombre d'heures quasiment similaire ! Le BUT découpe le DUT dans le lit de Procuste. ",
+        "container-title": "La Tribune",
+        "title": "Le diplôme universitaire de technologie, ce chêne que l'on abat.",
+        "URL": "https://www.latribune.fr/opinions/tribunes/le-diplome-universite-technologique-ce-chene-que-l-on-abat-863280.html",
+        "author": [
+            {
+                "literal": "Nicolas cuzacq"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-27"
+        },
+        "note": "Plutôt défavorable"
     }
 ]

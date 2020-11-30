@@ -4,15 +4,21 @@ import csv
 import json
 import argparse
 import re
+import os
 from pyzotero import zotero
 import pandas as pd
 import matplotlib.pyplot as plt
+from slugify import slugify
+from sanitize_filename import sanitize
 
 #>>> zot.item_template('letter')
 #{'itemType': 'letter', 'title': '', 'creators': [{'creatorType': 'author', 'firstName': '', 'lastName': ''}], 'abstractNote': '', 'letterType': '', 'date': '', 'language': '', 'shortTitle': '', 'url': '', 'accessDate': '', 'archive': '', 'archiveLocation': '', 'libraryCatalog': '', 'callNumber': '', 'rights': '', 'extra': '', 'tags': [], 'collections': [], 'relations': {}}
 #>>> zot.item_template('newspaperArticle')
 #{'itemType': 'newspaperArticle', 'title': '', 'creators': [{'creatorType': 'author', 'firstName': '', 'lastName': ''}], 'abstractNote': '', 'publicationTitle': '', 'place': '', 'edition': '', 'date': '', 'section': '', 'pages': '', 'language': '', 'shortTitle': '', 'ISSN': '', 'url': '', 'accessDate': '', 'archive': '', 'archiveLocation': '', 'libraryCatalog': '', 'callNumber': '', 'rights': '', 'extra': '', 'tags': [], 'collections': [], 'relations': {}}
 
+storage_host = 'www.cpesr.fr'
+storage_url = 'uploads/motions'
+storage_limesurvey = 'limesurvey/upload/surveys/435945/files'
 
 parser = argparse.ArgumentParser(description='Convertit les données issues du formulaire de référencement de tribunes et motions')
 parser.add_argument('csvfile',
@@ -23,6 +29,9 @@ parser.add_argument('--zotpress', dest='zotpress', action='store_const',
 parser.add_argument('--zotero', dest='zotero', nargs=3,
                    help='Synchronise les données avec zotero',
                    metavar=('api_key','library_id','collection_id'))
+parser.add_argument('--storefiles', dest='storefiles', action='store_const',
+                   const=True, default=False,
+                   help='Stocke les textes sur le serveur web (nécessite ssh configuré)')
 parser.add_argument('--json-csl', dest='json', action='store_const',
                    const=True, default=False,
                    help='Convertit les données au format json-csl')
@@ -36,19 +45,22 @@ parser.add_argument('--minid',
                    default=0, type=int,
                    help='Identifiant de la réponse à partir duquel convertir les données')
 
+def ref2filename(ref):
+    return(sanitize(
+        ref['date']+'_'+slugify(ref['titre'])+'_'+slugify(ref['auteurs'])+'.'+ref['upload'][0]['ext']
+    ))
 
+def ref2url(ref):
+    return(
+        'https://'+storage_host+'/'+storage_url+'/'+ref2filename(ref)
+    )
 
 def format_zotpress(s):
     return(
         re.sub(' +', ' ',
         re.sub(r'\s([?.!:"](?:\s|$))', r'\1',
         s.replace('« ','').replace(' »','')))
-        )
-
-def slugify(value):
-    value = re.sub('[^\w\s-]', '', value).strip().lower()
-    value = re.sub('[-\s]+', '-', value)
-    return value
+    )
 
 def read_csv(csvfile, zotpress=False, mindate='0', minid=0):
     refs = []
@@ -62,10 +74,17 @@ def read_csv(csvfile, zotpress=False, mindate='0', minid=0):
             if row['submitdate'] < mindate: continue
             if int(row['ID']) < minid: continue
 
+            row['titre'] = row['titre'].strip('" «»')
             if row['objet'] == 'Autre': row['objet'] = row['objet[other]']
             if row['type'] == 'Autre': row['type'] = row['type[other]']
             if row['type'] != 'Tribune' and row['publication'] !=  '':
                 row['auteurs'] = row['auteurs'] + ' (' + row['publication'] + ' )'
+
+            row['date'] = row['date'][0:10]
+
+            if row['typeurl'] == 'Téléchargement de fichier':
+                row['upload'] = json.loads(row['upload'])
+                row['url'] = ref2url(row)
 
             if zotpress:
                 for e in row:
@@ -79,7 +98,7 @@ def print_jsoncsl(refs):
     csls = []
     for ref in refs:
         csl = {
-            'id'              : (ref['objet'] + '-' + ref['ID']).replace(' ','_'),
+            'id'              : sanitize(ref['objet'] + '-' + ref['ID']),
             'type'            : 'article-newspaper' if ref['type'] == 'Tribune' else 'personal_communication',
             'letterType'      : ref['type'],
             'abstract'        : ref['catchphrase'],
@@ -88,7 +107,7 @@ def print_jsoncsl(refs):
             'URL'             : ref['url'],
             'author'          : [{'literal':ref['auteurs']}],
             'recipient'       : [{'literal':ref['destinataire']}],
-            'issued'          : {'raw':ref['date'][0:10]},
+            'issued'          : {'raw':ref['date']},
             'note'            : ref['position']
             }
         csls.append(csl)
@@ -104,7 +123,7 @@ def ref2zot(ref, collections):
         'title'           : ref['titre'],
         'url'             : ref['url'],
         'creators'        : [{'creatorType':'author', 'name':ref['auteurs']}],
-        'date'            : ref['date'][0:10],
+        'date'            : ref['date'],
         'extra'           : ref['position'],
         'collections'     : collections
     }
@@ -175,8 +194,16 @@ def make_chart(refs, objet):
     plt.subplots_adjust(left=0.0, right=0.60, top=0.9, bottom=0.0)
     plt.axis('off')
     #plt.show()
-    plt.savefig(slugify(objet)+'.png', dpi=300)
+    plt.savefig(sanitize(objet)+'.png', dpi=300)
     print(counts)
+
+def store_files(refs):
+    for ref in refs:
+        if ref['typeurl'] == 'Téléchargement de fichier':
+            src = storage_limesurvey+'/'+ref['upload'][0]['filename']
+            dst = 'www/'+storage_url+'/'+ref2filename(ref)
+            print('Upload '+dst)
+            os.system('ssh'+' '+storage_host+' cp '+src+' '+dst)
 
 
 if __name__ == "__main__":
@@ -187,3 +214,4 @@ if __name__ == "__main__":
     if args.json : print_jsoncsl(refs)
     if args.zotero is not None: update_zotero(refs, args.zotero[1], args.zotero[2], args.zotero[0])
     if args.chart is not None: make_chart(refs, args.chart[0])
+    if args.storefiles: store_files(refs)
