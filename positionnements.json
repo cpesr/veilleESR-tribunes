@@ -1516,5 +1516,97 @@
             "raw": "2020-11-27"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-428",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Département de philosophie de l’Université de Franche-Comté (UFR SLHS) dénonce le passage en force d'une loi contraire aux principes mêmes du service public de l'enseignement supérieur et de la recherche, et contraire au sens même de l’Université comme espace de liberté, d’instruction et de débats.",
+        "container-title": "",
+        "title": "Contre la Loi de Programmation Pluriannuelle de la Recherche",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-16_contre-la-loi-de-programmation-pluriannuelle-de-la-recherche_departement-de-philosophie-de-luniversite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "Département de philosophie de l’Université de Franche-Comté"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Assemblée générale de l'Université ; UFR SLHS"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-429",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Département d’Histoire de l’Art et Archéologie de l’Université de Franche-Comté (UFR SLHS) dénonce le passage en force d'une loi contraire aux principes mêmes du service public de l'enseignement supérieur et de la recherche, et contraire au sens même de l’Université comme espace de liberté, d’instruction et de débats.",
+        "container-title": "Université de Franche-Comté",
+        "title": "Contre la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-19_contre-la-lpr_departement-dhistoire-de-lart-et-archeologie-de-luniversite-de-franche-comte-universite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "Département d’Histoire de l’Art et Archéologie de l’Université de Franche-Comté (Université de Franche-Comté )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Assemblée générale de l'Université ; UFR SLHS"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-19"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-430",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous réaffirmons notre attachement à la libre expression et à la manifestation des opinions au sein de la communauté universitaire, au caractère national du recrutement des enseignant-e-s-chercheur-se-s et à un service public de qualité.",
+        "container-title": "Université de Franche-Comté",
+        "title": "Contre la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-30_contre-la-lpr_departement-dallemand-de-luniversite-de-franche-comte-universite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "Département d’allemand de l’Université de Franche-Comté (Université de Franche-Comté )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Assemblée générale de l'Université ; UFR SLHS"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-30"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-431",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Enfin nous nous opposons résolument à l’amendement 147 (dit du « délit d’entrave »), proposé en dernière instance, qui constitue une nouvelle étape de la criminalisation de la contestation et cible directement les étudiant.e.s dans leur capacité politique.",
+        "container-title": "Université de Franche-Comté",
+        "title": "Contre la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-20_contre-la-lpr_departement-de-francais-langue-etrangere-transcomposante-deflet-ufr-slhs-universite-de-franche-comte-universite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "Département de Français Langue Étrangère Transcomposante (DEFLET) UFR SLHS, Université de Franche-Comté (Université de Franche-Comté )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Assemblée générale de l'Université"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-20"
+        },
+        "note": "Très défavorable"
     }
 ]
