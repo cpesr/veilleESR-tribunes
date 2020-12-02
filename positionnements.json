@@ -1608,5 +1608,51 @@
             "raw": "2020-11-20"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-433",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous refusons dans les recommandations de la LPPR la mise en concurrence des équipes de recherches et des universités suivant une logique néolibérale avec le risque de voir se développer un système universitaire à deux vitesses avec, d’un côté, des universités d’excellence qui concentreront les activités de recherche et, de l’autre, des universités cantonnées à l’enseignement. L’inégalité des universités entraînera immanquablement une différence de valeur des diplômes délivrés. ",
+        "container-title": "Université Rennes 2",
+        "title": "Motion du Département d'histoire de l'art et archéologie de l'Université Rennes 2 contre la LPPR - 6 février 2020",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-02-06_motion-du-departement-d-histoire-de-l-art-et-archeologie-de-l-universite-rennes-2-contre-la-lppr-6-fevrier-2020_le-departement-d-histoire-de-l-art-et-archeologie-enseignants-chercheurs-et-doctorants-universite-rennes-2.pdf",
+        "author": [
+            {
+                "literal": "Le département d'histoire de l'art et archéologie (enseignants-chercheurs et doctorants) (Université Rennes 2 )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-02-06"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-434",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "Au-delà du concert médiatique, vous l'aurez compris, la programmation de la recherche a été préparée et travaillée de manière à répondre à vos attentes, tout en nous redonnant des perspectives et de la visibilité sur le plan des moyens. ",
+        "container-title": "MESRI",
+        "title": "Courrier de la Ministre aux personnels de la recherche",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-12-01_courrier-de-la-ministre-aux-personnels-de-la-recherche_frederique-vidal-mesri.pdf",
+        "author": [
+            {
+                "literal": "Frédérique Vidal (MESRI )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "les membres, titulaires, contractuels ou doctorants de la communauté de l'enseignement supérieur, de la recherche et de l'innovation"
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-01"
+        },
+        "note": "Très favorable"
     }
 ]
