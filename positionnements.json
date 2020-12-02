@@ -1636,7 +1636,7 @@
         "id": "LPPRLPR Loi de programmation de la recherche (2020)-434",
         "type": "personal_communication",
         "letterType": "Lettre",
-        "abstract": "Au-delà du concert médiatique, vous l'aurez compris, la programmation de la recherche a été préparée et travaillée de manière à répondre à vos attentes, tout en nous redonnant des perspectives et de la visibilité sur le plan des moyens. ",
+        "abstract": "A la suite de l’adoption définitive du projet de loi de programmation de la recherche pour les années 2021 à 2030 et portant diverses dispositions relatives à la recherche et à l’enseignement supérieur, veuillez trouver en pièce jointe de ce mail un courrier destiné à l’ensemble des personnels de Madame Frédérique Vidal, ministre de l’enseignement supérieur, de la recherche et de l’innovation.",
         "container-title": "MESRI",
         "title": "Courrier de la Ministre aux personnels de la recherche",
         "URL": "https://www.cpesr.fr/uploads/motions/2020-12-01_courrier-de-la-ministre-aux-personnels-de-la-recherche_frederique-vidal-mesri.pdf",
@@ -1654,5 +1654,120 @@
             "raw": "2020-12-01"
         },
         "note": "Très favorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-435",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Les personnels signataires de l'UFR SJEPG dénoncent le passage en force d'une loi contraire aux principes du service public de l'enseignement supérieur et, plus généralement, à l'essence même de l'université comme espace de liberté, d'instruction et de débats. Ils appellent à la mobilisation et invitent toutes celles et tous ceux qui le pourraient à rejoindre les rassemblements de protestation programmés à l'Université de Franche-Comté et ailleurs en France, et à imaginer les moyens d'action pour afficher notre désaccord et préserver le modèle universitaire français.",
+        "container-title": "université de Franche-Comté",
+        "title": "Contre la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-30_contre-la-lpr_ufr-sjepg-de-l-universite-de-franche-comte-universite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "UFR SJEPG de l'université de Franche-Comté (université de Franche-Comté )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Assemblée générale de l'université de Franche-Comté ; UFR SJEPG"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-30"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Libertés académiques-436",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous demandons que l’Université de Franche-Comté poursuive ses efforts pour l’amélioration des serveurs et des outils d’enseignement à distance, pour le soutien matériel aux étudiants pendant la période de confinement. Le retour à un enseignement en présentiel doit être l’objectif prioritaire, dans le strict respect des règles et de la situation sanitaires (avec des petits groupes, de l’hybridation, etc.), afin de pouvoir assurer nos missions d’enseignement dans des conditions optimales et non dégradées, dans le respect du calendrier universitaire.",
+        "container-title": "université de Franche-Comté",
+        "title": "Sur la LPR, les cours en présentiel et à distance",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-26_sur-la-lpr-les-cours-en-presentiel-et-a-distance_commission-de-la-formation-et-de-la-vie-universitaire-de-l-universite-de-franche-comte-universite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "Commission de la Formation et de la Vie Universitaire de l'université de Franche-Comté (université de Franche-Comté )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Assemblée générale de l'université de Franche-Comté"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-26"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-437",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous, membres du Conseil académique de l'Université de Franche-Comté, réunis le lundi 30 novembre 2020, sommes opposés à la mise en œuvre de cette loi dangereuse pour le Service public de l'Enseignement Supérieur et de la Recherche.",
+        "container-title": "université de Franche-Comté",
+        "title": "Contre la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-30_contre-la-lpr_conseil-academique-restreint-de-l-universite-de-franche-comte-universite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "Conseil académique restreint de l'université de Franche-Comté (université de Franche-Comté )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Assemblée générale de l'université de Franche-Comté"
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-30"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-438",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Conseil d‘administration de l’université de Franche-Comté dénonce le passage en force d'une loi contraire aux principes du service public de l'enseignement supérieur et, plus généralement, à l'essence même de l'université comme espace de liberté, d'instruction et de débats.",
+        "container-title": "université de Franche-Comté",
+        "title": "Contre la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-12-01_contre-la-lpr_conseil-d-administration-de-l-universite-de-franche-comte-universite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "Conseil d'administration de l'université de Franche-Comté (université de Franche-Comté )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "université de Franche-Comté"
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-01"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-439",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Remettre à l’ordre du jour un projet de loi qui fait l’unanimité contre lui parmi les organisations syndicales et qui concentre et amplifie les travers du monde d’avant relève au mieux d’une incapacité totale du gouvernement à se remettre en question, au pire d’un cynisme qui ne prend même plus la peine de se voiler.",
+        "container-title": "Site web de l'association Sciences citoyennes",
+        "title": "Sciences Citoyennes soutient la mobilisation contre le projet de LPPR",
+        "URL": "https://sciencescitoyennes.org/communique-sciences-citoyennes-soutient-la-mobilisation-contre-le-projet-de-lppr/?highlight=lppr",
+        "author": [
+            {
+                "literal": "Sciences Citoyennes (Site web de l'association Sciences citoyennes )"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-06-12"
+        },
+        "note": "Très défavorable"
     }
 ]
