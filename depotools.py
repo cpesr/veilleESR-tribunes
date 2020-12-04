@@ -198,7 +198,7 @@ def make_chart(refs, objet):
     plt.subplots_adjust(left=0.0, right=0.60, top=0.9, bottom=0.0)
     plt.axis('off')
     #plt.show()
-    plt.savefig(sanitize(objet)+'.png', dpi=300)
+    plt.savefig(slugify(objet)+'.png', dpi=300)
     print(counts)
 
 
@@ -217,7 +217,7 @@ def twitter(refs):
     attachments = {
         "LPPR/LPR Loi de programmation de la recherche (2020)" : {
             'hashtag' : '#LPPR',
-            'image' : 'lpprlpr-loi-de-programmation-de-la-recherche-2020.png',
+            'image' : 'lppr-lpr-loi-de-programmation-de-la-recherche-2020.png',
             'attachment_url' : 'https://twitter.com/CPESR_/status/1334795697082789888'
             },
         'DUT/BUT Bachelor universitaire de technologie' : {
