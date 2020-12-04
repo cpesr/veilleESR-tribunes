@@ -1884,5 +1884,28 @@
             "raw": "2020-12-16"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-447",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Toutefois, le CSI de l’INP considère que cette loi, qui doit permettre à la France de rattraper\nson retard sur la scène internationale, n’est pas à la hauteur des ambitions et des besoins :\n....\nLe CSI de l’INP demande que ces commentaires soient pris en compte dans les discussions\nvisant à faire évoluer le projet actuel vers une loi bénéfique pour la recherche française, en\naccord avec les attentes fortes de tous les acteurs de la recherche.",
+        "container-title": "https://www.cnrs.fr/comitenational/csi/reco/inp.htm",
+        "title": "Recommandation du CS de l’INP sur la Loi de Programmation Pluriannuelle de la Recherche (LPPR)",
+        "URL": "https://www.cnrs.fr/comitenational/csi/reco/Recommandations/INP/Recommandation_CSINP.pdf",
+        "author": [
+            {
+                "literal": "Conseil Scientifique de l'Institut de Physique du CNRS (https://www.cnrs.fr/comitenational/csi/reco/inp.htm)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Frédérique VIDAL, Antoine PETIT,Alain SCHUHL et Astrid LAMBRECHT"
+            }
+        ],
+        "issued": {
+            "raw": "2020-07-07"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
