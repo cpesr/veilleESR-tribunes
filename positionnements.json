@@ -1838,5 +1838,51 @@
             "raw": "2019-03-11"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-445",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "C’est sans doute ça le fond du problème : la poursuite d’un système qui se veut élitiste mais qui est coûteux, avec une performance très relative et des impensés de plus en plus forts sur la formation, la diversité et la promotion sociale et les équilibres territoriaux.",
+        "container-title": "Université de Bretagne Occidentale (UBO)",
+        "title": "Une occasion manquée",
+        "URL": "http://ps29.org/Une-occasion-manquee-3034",
+        "author": [
+            {
+                "literal": "t Jérémy Morvan - Vice-président"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-04"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-446",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Cette loi de programmation, malgré des premières lueurs encourageantes sur la hausse des moyens alloués à l’enseignement supérieur et la recherche, envoie finalement trop de signaux négatifs aux enseignants et aux étudiants pour garantir sa bonne santé dans les années à venir et rétablir un climat de confiance. Je voterai donc CONTRE ce texte, avec regret.\n\n",
+        "container-title": "Maine-et-Loire",
+        "title": "Je voterai CONTRE",
+        "URL": "http://matthieuorphelin.org/loi-de-programmation-de-la-recherche-je-voterai-contre/",
+        "author": [
+            {
+                "literal": "Matthieu Orphelin - député  (Maine-et-Loire)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-16"
+        },
+        "note": "Plutôt défavorable"
     }
 ]

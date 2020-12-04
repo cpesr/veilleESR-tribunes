@@ -10,6 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from slugify import slugify
 from sanitize_filename import sanitize
+from config import create_api
 
 #>>> zot.item_template('letter')
 #{'itemType': 'letter', 'title': '', 'creators': [{'creatorType': 'author', 'firstName': '', 'lastName': ''}], 'abstractNote': '', 'letterType': '', 'date': '', 'language': '', 'shortTitle': '', 'url': '', 'accessDate': '', 'archive': '', 'archiveLocation': '', 'libraryCatalog': '', 'callNumber': '', 'rights': '', 'extra': '', 'tags': [], 'collections': [], 'relations': {}}
@@ -38,6 +39,9 @@ parser.add_argument('--json-csl', dest='json', action='store_const',
 parser.add_argument('--chart', dest='chart', nargs=1,
                    help='Produit un graphique avec les statistiques concernant un objet',
                    metavar=('objet'))
+parser.add_argument('--twitter', dest='twitter', action='store_const',
+                   const=True, default=False,
+                   help='Twitte les textes (nécessite les autorisations)')
 parser.add_argument('--mindate',
                    default='0000',
                    help='Date de soumision du formulaire à partir de laquelle convertir les données (format yyyy-mm-dd)')
@@ -78,7 +82,7 @@ def read_csv(csvfile, zotpress=False, mindate='0', minid=0):
             if row['objet'] == 'Autre': row['objet'] = row['objet[other]']
             if row['type'] == 'Autre': row['type'] = row['type[other]']
             if row['type'] != 'Tribune' and row['publication'] !=  '':
-                row['auteurs'] = row['auteurs'] + ' (' + row['publication'] + ' )'
+                row['auteurs'] = row['auteurs'] + ' (' + row['publication'] + ')'
 
             row['date'] = row['date'][0:10]
 
@@ -197,6 +201,7 @@ def make_chart(refs, objet):
     plt.savefig(sanitize(objet)+'.png', dpi=300)
     print(counts)
 
+
 def store_files(refs):
     for ref in refs:
         if ref['typeurl'] == 'Téléchargement de fichier':
@@ -204,6 +209,57 @@ def store_files(refs):
             dst = 'www/'+storage_url+'/'+ref2filename(ref)
             print('Upload '+dst)
             os.system('ssh'+' '+storage_host+' cp '+src+' '+dst)
+
+
+
+
+def twitter(refs):
+    attachments = {
+        "LPPR/LPR Loi de programmation de la recherche (2020)" : {
+            'hashtag' : '#LPPR',
+            'image' : 'lpprlpr-loi-de-programmation-de-la-recherche-2020.png',
+            'attachment_url' : 'https://twitter.com/CPESR_/status/1334795697082789888'
+            },
+        'DUT/BUT Bachelor universitaire de technologie' : {
+            'hashtag' : '#EndOfBut',
+            'attachment_url' : 'https://twitter.com/CPESR_/status/1334797237382209536'
+            },
+        "default": {
+            'hashtag' : '#Ref',
+            'attachment_url' : 'https://twitter.com/CPESR_/status/1334797237382209536'
+        }
+    }
+
+    api = create_api()
+
+    for ref in refs:
+
+        if ref['objet'] in attachments:
+            attachment = attachments[ref['objet']]
+        else:
+            attachment = attachments['default']
+
+        if 'media_id' not in attachment:
+            if 'image' in attachment:
+                res = api.media_upload(attachment['image'])
+                attachment['media_id'] = [res.media_id]
+            else:
+                attachment['media_id'] = None
+
+        s = ref['titre']+' - '+ref['type']+' '+ref['position'].lower()+' de '+ref['auteurs']
+        if len(s) > 220: s=s[0:219]+'...'
+        statusstr = '[#VeilleESR '+attachment['hashtag']+'] '+s+'\n'+ ref['url']
+
+        try:
+            print("Tweeting item "+ref['ID'], end='... ')
+            api.update_status(
+                status = statusstr,
+                media_ids = attachment['media_id'],
+                attachment_url = attachment['attachment_url']
+            )
+            print("DONE")
+        except Exception as e:
+            print("FAILED "+str(e))
 
 
 if __name__ == "__main__":
@@ -215,3 +271,4 @@ if __name__ == "__main__":
     if args.zotero is not None: update_zotero(refs, args.zotero[1], args.zotero[2], args.zotero[0])
     if args.chart is not None: make_chart(refs, args.chart[0])
     if args.storefiles: store_files(refs)
+    if args.twitter: twitter(refs)
