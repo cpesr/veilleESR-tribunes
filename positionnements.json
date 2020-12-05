@@ -1907,5 +1907,28 @@
             "raw": "2020-07-07"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-448",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "",
+        "container-title": "http://www.univ-lemans.fr/fr/actualites/agenda2020/decembre2020/motion-lppr.html",
+        "title": "Motion de désapprobation devant l’adoption de la loi de programmation de la recherche (LPR), sans aucun dialogue avec la communauté universitaire dans son ensemble",
+        "URL": "http://www.univ-lemans.fr/fr/actualites/agenda2020/decembre2020/motion-lppr.html",
+        "author": [
+            {
+                "literal": "Conseil d'administration - Le Mans Université (http://www.univ-lemans.fr/fr/actualites/agenda2020/decembre2020/motion-lppr.html)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-26"
+        },
+        "note": "Très défavorable"
     }
 ]
