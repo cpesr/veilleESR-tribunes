@@ -1930,5 +1930,28 @@
             "raw": "2020-11-26"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-449",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Au regard de ces enjeux et des nombreuses oppositions exprimées dans la communauté académique [*], le Conseil de la Faculté de Physique et Ingénierie exprime son inquiétude quant aux points suivants :\n- la méthode suivie lors de l’élaboration de la LPR\n- son contenu, en particulier :\no le délit d’entrave, défini de manière trop vague pour ne pas remettre en cause d’éventuels futurs mouvements légitimes de contestation ;\no la faveur réaffirmée aux financements sur projets au détriment des financements récurrents ;\no la remise en cause récurrente du statut d’enseignant-chercheur, notamment par la création des CDI de mission et des contrats dit de « tenure track » ;\no la remise en cause de la qualification nationale pour le recrutement des professeur.e.s et, dans certaines disciplines et à titre expérimental, pour les maîtresses et maîtres de conférences.\n...\nLe Conseil de Faculté Physique et ingénierie demande au Congrès de l’Université de Strasbourg de prendre position contre ces dispositions de la LPR.",
+        "container-title": "",
+        "title": "Motion du Conseil de la Faculté de Physique et Ingénierie",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-12-04_motion-du-conseil-de-la-faculte-de-physique-et-ingenierie_universite-de-strasbourg.pdf",
+        "author": [
+            {
+                "literal": "Université de Strasbourg"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-04"
+        },
+        "note": "Très défavorable"
     }
 ]
