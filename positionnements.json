@@ -1953,5 +1953,28 @@
             "raw": "2020-12-04"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-450",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous, enseignant·e·s et enseignant·e·s chercheur·se·s du département d’espagnol et de portugais de l’Université de Franche-Comté, réitérons notre opposition à la Loi de Programmation de la Recherche (LPR) récemment adoptée par le Parlement.",
+        "container-title": "Université de Franche-Comté",
+        "title": "A propos de la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-12-02_a-propos-de-la-lpr_departement-d-espagnol-et-de-portugais-universite-de-franche-comte.pdf",
+        "author": [
+            {
+                "literal": "Département d'espagnol et de portugais (Université de Franche-Comté)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-02"
+        },
+        "note": "Très défavorable"
     }
 ]
