@@ -2068,5 +2068,28 @@
             "raw": "2020-11-24"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-455",
+        "type": "personal_communication",
+        "letterType": "Saisine",
+        "abstract": "Au regard des nombreuses inconstitutionnalités présentes dans la Loi de  Programmation  de  la  Recherche (LPR)et  des  importants  vices  de procédures entachant son adoption, les membres et sympathisants du COLLECTIF L’UNITE  DU DRoit  demandent  au  Conseil  constitutionnel une annulation totale de la loi",
+        "container-title": "",
+        "title": "Observations sur la conformité à la Constitution de la Loi (dite LPR) de Programmation de la Recherche pour les années 2021 à 2030 & portant diverses dispositions relatives à la recherche et à l’enseignement supérieur",
+        "URL": "https://docplayer.fr/198885717-Au-conseil-constitutionnel.html",
+        "author": [
+            {
+                "literal": "Collectif L’Unité du Droit"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Conseil constitutionnel"
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-03"
+        },
+        "note": "Très défavorable"
     }
 ]
