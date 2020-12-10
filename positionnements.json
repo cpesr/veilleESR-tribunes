@@ -2045,5 +2045,28 @@
             "raw": "2020-12-03"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-454",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "",
+        "container-title": "",
+        "title": "Motion du CAC de Rennes 1 du 24 novembre 2020",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-24_motion-du-cac-de-rennes-1-du-24-novembre-2020_conseil-academique-de-l-universite-de-rennes-1.pdf",
+        "author": [
+            {
+                "literal": "Conseil Académique de l'université de Rennes 1"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-24"
+        },
+        "note": "Très défavorable"
     }
 ]
