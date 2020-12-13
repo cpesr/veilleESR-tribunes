@@ -2091,5 +2091,28 @@
             "raw": "2020-12-03"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-459",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Conseil scientifique et pédagogique de l’INSHEA tient à exprimer sa désapprobation profonde à l'égard du processus législatif retenu pour modifier le rôle dévolu au Conseil national des universités (CNU).\nIl condamne l’adoption par l’Assemblée nationale de l’article 3bis du projet de loi de programmation de la recherche (LPR) tel qu’adopté subrepticement par le Sénat en première lecture dans la nuit du 28 au 29 octobre, qui n’a pas fait l’objet de la moindre concertation avec la communauté académique.\nRefusant la disparition de toute étape nationale dans le parcours de recrutement des universitaires et, partant, la remise en cause de leur statut de fonctionnaire d’État, il affirme solennellement son attachement à la procédure de qualification nationale des candidats aux fonctions de professeur et de maître de conférences, assurée par des pairs élus. Mise en œuvre par une majorité de pairs élus dont le mandat est renouvelé tous les quatre ans, elle garantit un haut niveau de compétences scientifiques et pédagogiques ainsi qu’une égalité de traitement de tous les collègues, quels que soient leur établissement et leur laboratoire. De même, l’évaluation nationale et par les pairs des productions de la recherche et de l’avancement des carrières constitue un gage de sérieux et d’indépendance. La disparition des prérogatives du CNU ouvre au contraire la porte à un système de recrutement erratique et disparate, à des dérives scientifiques et à de graves problèmes éthiques pour l’ensemble de la profession.\nMotion votée à l’unanimité par le Conseil scientifique et pédagogique de l’INSHEA lors de sa réunion plénière du 23 novembre 2020.",
+        "container-title": "Site internet de l'INSHEA",
+        "title": "Désapprobation de la loi de programmation de la recherche (LPR)",
+        "URL": "https://www.inshea.fr/fr/content/communication-des-instances",
+        "author": [
+            {
+                "literal": "Conseil scientifique et pédagogique (CSP) de l'INSHEA (Site internet de l'INSHEA)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-23"
+        },
+        "note": "Très défavorable"
     }
 ]
