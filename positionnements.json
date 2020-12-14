@@ -2114,5 +2114,97 @@
             "raw": "2020-11-23"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-460",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "L’expérimentation visant à autoriser le recrutement d’un enseignant-chercheur ne disposant pas de la qualification du CNU signe la disparition programmée de cette instance pourtant garante de l’égalité et de la qualité des recrutements à l’Université.",
+        "container-title": "Université de Toulon",
+        "title": "Affirmer publiquement son plus vif désaccord avec les articles 3 bis et 6 de la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-16_affirmer-publiquement-son-plus-vif-desaccord-avec-les-articles-3-bis-et-6-de-la-lpr_conseil-de-lecole-doctorale-sciences-humaines-et-societe-mediterraneennes-universite-de-toulon.pdf",
+        "author": [
+            {
+                "literal": "Conseil de l’Ecole doctorale « Sciences humaines et société méditerranéennes »  (Université de Toulon)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-16"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-461",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "La  CPdirsic,  la  Sfsic  et  le  CNU  71  soutiennent  les  collègues  qui  ont  choisi  d’interrompre,  chacun·e  à  sa façon,  le  cours  normal  des activités  d’enseignement,  de recherche  et  d’administration. Elles  en  appellent également  à  la  responsabilité  des président·e·s  des  universités,  directrices  et  directeurs  d’établissement  à défendre les unités de recherche et à relayer les propositions de la communauté universitaire en faveur d’une politique  de  la  recherche  publique ambitieuse et  consolidée  par des moyens  humains  et  budgétaires pérennes.",
+        "container-title": "",
+        "title": "A propos de la LPPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-02-13_a-propos-de-la-lppr_cpdirsic-sfsic-cnu-71eme-section.pdf",
+        "author": [
+            {
+                "literal": "CPdirsic, SFSIC, CNU 71ème section"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-02-13"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-462",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous alertons sur un ensemble de mesures qui vont instituer les emplois non titulaires et accentuer la précarisation des enseignants-chercheurs. Ce modèle a montré ses limites dans de nombreux pays.",
+        "container-title": "",
+        "title": "Dénoncer le fond de la LPR",
+        "URL": "https://www.sfsic.org/edito/motion-de-la-sfsic/",
+        "author": [
+            {
+                "literal": "Société Française des Sciences de l’Information et de la Communication (SFSIC)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-09"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-463",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Les membres du Comité National des Universités de la 71esection -sciences de l’information et de la communication –réunis en Assemblée générale le 27 janvier 2020, ont voté à l’unanimité la motion suivante. Nous tenons à manifester notre opposition résolue aux principales orientations qui s’expriment dans les trois rapports remis à la Ministre de l’Enseignement supérieur et de la recherche et qui risquent de se retrouver dans le projet de loi de programmation pluriannuelle de la recherche en préparation.",
+        "container-title": "",
+        "title": "Opposition résolue aux principales orientations de la LPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-01-27_opposition-resolue-aux-principales-orientations-de-la-lpr_lesmembres-du-comite-national-des-universites-de-la-71eme-section-sciences-de-linformation-et-de-la-communication.pdf",
+        "author": [
+            {
+                "literal": "Lesmembres du Comité National des Universités de la 71ème section (sciences de l’information et de la communication)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-01-27"
+        },
+        "note": "Très défavorable"
     }
 ]
