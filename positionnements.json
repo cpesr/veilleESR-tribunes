@@ -2206,5 +2206,51 @@
             "raw": "2020-01-27"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-464",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "La CP-CNU appelle l’ensemble des enseignantes-chercheuses et enseignants-chercheurs à ne pas siéger dans des instances d’évaluation et à refuser de participer aux comités de visite du Hcéres.",
+        "container-title": "",
+        "title": "Communiqué de la CP-CNU",
+        "URL": "https://twitter.com/CP_Cnu/status/1338951928550739969",
+        "author": [
+            {
+                "literal": "CP-CNU"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-14"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-465",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "En novembre, le Parlement a adopté le projet de loi de programmation de la recherche (LPR). Enquête sur les évolutions que devrait entraîner cette loi sur le financement des projets, l’emploi et les carrières dans la recherche.\n\n",
+        "container-title": "",
+        "title": "Loi de programmation : ce qu’elle va changer pour la recherche",
+        "URL": "http://www.cnrs.fr/fr/cnrsinfo/loi-de-programmation-ce-quelle-va-changer-pour-la-recherche?sstc=u11594nl5390",
+        "author": [
+            {
+                "literal": "CNRS"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-16"
+        },
+        "note": "Plutôt favorable"
     }
 ]
