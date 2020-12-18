@@ -2252,5 +2252,28 @@
             "raw": "2020-12-16"
         },
         "note": "Plutôt favorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-466",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Les membres du CTU, comme la très grande majorité de la communauté universitaire et scientifique, rejettent la loi de programmation pour la recherche (LPR) telle qu’adoptée par l’Assemblée nationale le 20 novembre dernier et dénoncent les dispositions délétères qui ont été ajoutées par les parlementaires avec l’accord du gouvernement.",
+        "container-title": "",
+        "title": "Déclaration des organisations syndicales CGT, SGEN-CFDT, SNESUP-FSU, SUD ÉDUCATION",
+        "URL": "https://www.snesup.fr/article/declaration-commune-cgt-sgen-cfdt-snesup-fsu-sud-education-au-ctu-du-18-decembre-2020",
+        "author": [
+            {
+                "literal": "Membres du CTU"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-18"
+        },
+        "note": "Très défavorable"
     }
 ]
