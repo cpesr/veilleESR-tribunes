@@ -2275,5 +2275,28 @@
             "raw": "2020-12-18"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-467",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "La  section  01  du  Conseil  National  des  Universités  maintient  son  appel  aux  enseignantes-\nchercheuses et enseignants-chercheurs à ne pas siéger dans les instances d’évaluation et à \nrefuser de participer aux comités du HCERES.  \nLa section 01 appelle les présidents d’université, les doyens, les présidents de section et de \ndépartement, les présidents de comités de sélection et les directeurs de laboratoire de droit \net de science politique à exprimer leur soutien, en adaptant le calendrier des recrutements \ndes maîtres de conférences et des professeurs à celui des sessions de qualification du CNU. ",
+        "container-title": "",
+        "title": "Communiqué à propos de la LPPR",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-01-05_communique-a-propos-de-la-lppr_section-1-du-cnu.pdf",
+        "author": [
+            {
+                "literal": "Section 1 du CNU"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-05"
+        },
+        "note": "Très défavorable"
     }
 ]
