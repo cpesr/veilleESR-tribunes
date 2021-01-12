@@ -1,6 +1,11 @@
 #!/bin/bash
 
-lastid=`cat positionnements.json | grep '"id"' | tail -1 | sed -r 's/.*-([0-9]*)",/\1/g'`
+if [ -z "$1" ]; then
+  lastid=`cat positionnements.json | grep '"id"' | tail -1 | sed -r 's/.*-([0-9]*)",/\1/g'`
+else
+  lastid=$1
+fi
+
 if [ -z "$lastid" ]; then
   minid="0"
 else

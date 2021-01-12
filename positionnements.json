@@ -2298,5 +2298,28 @@
             "raw": "2021-01-05"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-468",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Il considère que le mode d’annonce, tardif et brutal, du retrait des candidatures des MCF \ntitulaires  déstabilise  l’instance  nationale  et  le  processus  national,  équitable  et  impartial, \ngarant de la qualité des candidatures aux fonctions de Professeur·e·s des Universités. Ces \ncandidat·e·s qui avaient déposé leur dossier sur Galaxie et attendaient une reconnaissance \npar  leurs  pairs sont désorienté·e·s et en attente d’explications claires sur  le processus de \nrecrutement PR ultérieur. ",
+        "container-title": "CNU",
+        "title": "La loi de  programmation  de la  recherche",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-01-11_la-loi-de-programmation-de-la-recherche_cp-cnu-cnu.pdf",
+        "author": [
+            {
+                "literal": "CP-CNU (CNU)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-11"
+        },
+        "note": "Très défavorable"
     }
 ]
