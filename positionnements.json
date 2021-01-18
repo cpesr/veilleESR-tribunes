@@ -2321,5 +2321,235 @@
             "raw": "2021-01-11"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-470",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Pour tous les autres étudiants, majoritaires au demeurant, cette mesure ne changera rien à leur triste quotidien si ce n’est qu’il renforcera, sans doute, le malaise compte tenu de l’inégalité de traitement ainsi mis en place entre les étudiants.",
+        "container-title": "BAP - Le blog d'une constitutionnaliste",
+        "title": "COVID ET MAL-ETRE ETUDIANT – Comment éteindre un incendie avec un pistolet à eau …",
+        "URL": "https://blogdeannabellepena.com/?p=981",
+        "author": [
+            {
+                "literal": "Annabelle Pena"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-17"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-471",
+        "type": "personal_communication",
+        "letterType": "Pétition",
+        "abstract": "Face à l'inaction du gouvernement, plusieurs étudiants de l'Université de Haute Alsace sont les signataires d'une lettre ouverte aux représentants politiques le 10 janvier 2021. Cette pétition fait suite à la lettre des Derniers Déconfinés, afin de témoigner d'un sentiment étudiant général d'incompréhension et d'invisibilité. ",
+        "container-title": "",
+        "title": "Pour une considération des étudiant​.​e​.​s",
+        "URL": "https://www.change.org/p/pour-une-consid%C3%A9ration-des-%C3%A9tudiant-e-s-etudiantsfantomes-derniersd%C3%A9confin%C3%A9s?signed=true",
+        "author": [
+            {
+                "literal": "Les Derniers Déconfinés"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-13"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-472",
+        "type": "personal_communication",
+        "letterType": "Lettre ouverte",
+        "abstract": "Pour reprendre l’Abbé Sieyès à propos du Tiers-Etat : qu'avons-nous été jusqu’à présent dans l’ordre politique ? Rien. Que demandons-nous ? A y être quelque chose. Cette comparaison n’est pas vaine puisque des Etats Généraux de la formation ont été organisés dans certaines universités comme la nôtre. Les contributions y ont été riches et intéressantes, malgré l’absence des étudiants. Leur présence sera désormais essentielle.",
+        "container-title": "Médiapart",
+        "title": "Madame la Ministre, les universités doivent reprendre vie",
+        "URL": "https://blogs.mediapart.fr/les-invites-de-mediapart/blog/110121/madame-la-ministre-les-universites-doivent-reprendre-vie",
+        "author": [
+            {
+                "literal": "Les derniers déconfinés (Médiapart)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Monsieur le Président de la République, Monsieur le Premier Ministre, Madame la Ministre de l’Enseignement Supérieur et de la Recherche, Mesdames, Messieurs les Présidents des Universités françaises"
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-11"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-473",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "En une semaine, deux étudiant.es lyonnais.es ont tenté de mettre fin à leurs jours depuis leur chambre de cité universitaire. ",
+        "container-title": "",
+        "title": "Face à l'urgence de la détresse étudiante, l'indifférence et l'inaction ne sont plus tolérables !",
+        "URL": "https://twitter.com/IdexitLyon/status/1349799266001301505",
+        "author": [
+            {
+                "literal": "Intersyndicale étudiante Rhône-Alpes "
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-14"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-474",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "SUD éducation appelle tou-te-s les personnels des universités à se mobiliser et se mettre en grève le 26 janvier prochain, avec les collègues de l’Éducation nationale, pour imposer nos revendications et la réouverture des universités aux étudiant-e-s avec les moyens nécessaires, des créations de postes, l’amélioration de nos salaires et de nos carrières et pour défendre nos conditions de travail et d’études. Le 4 février, journée de grève et de mobilisation interprofessionnelle intersyndicale, sera l’occasion de combattre ce gouvernement qui fait payer la crise aux travailleurs-euses et à la jeunesse.",
+        "container-title": "",
+        "title": "Fermeture des universités : le mépris n’a que trop duré !",
+        "URL": "https://www.sudeducation.org/communiques/fermeture-des-universites-le-mepris-na-que-trop-dure/",
+        "author": [
+            {
+                "literal": "Solidaires, Sud Education"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-14"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-475",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous, membres du département de mathématiques de l’Université de Franche-Comté, voudrions faire part à toutes et tous nos collègues de nos inquiétudes quant à la réussite et à la bonne santé de nos étudiantes et étudiants.\"\n",
+        "container-title": "Université de France-Comté",
+        "title": "A propos du confinement étudiant",
+        "URL": "https://twitter.com/BiardRo/status/1349702495086510083",
+        "author": [
+            {
+                "literal": "Membres du département de mathématiques (Université de France-Comté)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-14"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-476",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Il est essentiel d’expliquer que, après la nomination extrêmement controversée d’un proche conseiller du Président de la République à la présidence du Haut Comité à l’Evaluation de la Recherche (HCERES), le risque est réel d’un transfert sans discussion des procédures de titularisation et d’évaluation des carrières vers cette institution.",
+        "container-title": "CNU",
+        "title": "Suppression de la qualification aux fonctions de Professeur.es : une réforme autoritaire déjà désastreuse",
+        "URL": "https://www.conseil-national-des-universites.fr/data/document/3821/2699/Public/Rapport%20d%20activit%C3%A9s/Motions/communiqu%C3%A9_CNU.Janvier2021.pdf",
+        "author": [
+            {
+                "literal": "Section 19 - Sociologie - Démographie (CNU)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-11"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-477",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Nous étudiants, demandons la fin de ce qui s'apparente à un spectacle de marionettes où seul le gouvernement est en capacité de tirer les ficelles.",
+        "container-title": "",
+        "title": "On ne demande qu'à être considérés. On ne demande qu'à être écoutés.",
+        "URL": "https://twitter.com/felixrcs/status/1348965675109396481",
+        "author": [
+            {
+                "literal": "Les oubliés, les sacrifiés, les survivants"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-12"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Certification obligatoire en langue-479",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Pour ces raisons, l’ACD Information-Communication réitère son opposition totale et sans réserve à la mise en œuvre d’une telle mesure et se joint aux nombreuses sociétés de linguistes et associations universitaires dénonçant cette manœuvre coûteuse, injustifiée et vouée à l’échec avant même d’avoir été instaurée.",
+        "container-title": "",
+        "title": "Contre la certification obligatoire en DUT et LP",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-01-12_contre-la-certification-obligatoire-en-dut-et-lp_acd-information-communication.pdf",
+        "author": [
+            {
+                "literal": "ACD Information-Communication"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-12"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Certification obligatoire en langue-480",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Par le présent communiqué, les associations ayant déposé un recours au Conseil d’État en septembre 2020 réaffirment leur opposition totale à l’obligation d’une passation d’une certification en langue anglaise.",
+        "container-title": "",
+        "title": "A propos de la certification obligatoire en langue",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-01-12_a-propos-de-la-certification-obligatoire-en-langue_mouvement-interassociatif.pdf",
+        "author": [
+            {
+                "literal": "Mouvement interassociatif"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-12"
+        },
+        "note": "Très défavorable"
     }
 ]
