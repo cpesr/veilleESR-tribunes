@@ -2620,5 +2620,51 @@
             "raw": "2021-01-12"
         },
         "note": "Neutre"
+    },
+    {
+        "id": "Confinement Covid19-484",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Deux tentatives de suicide en trois jours à Lyon. Pour celles que l'on connaît. Pour l'instant Frédérique Vidal (et Anne-Sophie Barthez) sont simplement irresponsables. Mais si rien ne change immédiatement elles seront coupables, définitivement coupables des drames de demain. ",
+        "container-title": "affordance.info",
+        "title": "Les gymnases qui brulent, les étudiants qui se défenestrent et les bonbons sur la table",
+        "URL": "https://www.affordance.info/mon_weblog/2021/01/gymnases-brulent-etudiants-defenestrent-bonbons.html",
+        "author": [
+            {
+                "literal": "Olivier Ertzscheid"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-12"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-485",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Je ferai cours dès la semaine prochaine en présentiel. Je serai donc dans une forme \"d'illégalité\" dont j'assumerai entièrement les conséquences. D'illégalité mais pas d'irresponsabilité. Parce que je ferai cours en présentiel mais que ce présentiel se fera sur la base du volontariat et des possibilités de chacun.e.",
+        "container-title": "affordance.info",
+        "title": "Universités : le temps de désobéir est venu",
+        "URL": "https://www.affordance.info/mon_weblog/2021/01/universites-le-temps-de-desobeir.html",
+        "author": [
+            {
+                "literal": "Olivier Ertzscheid"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-09"
+        },
+        "note": "Très défavorable"
     }
 ]
