@@ -2758,5 +2758,74 @@
             "raw": "2021-01-18"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-490",
+        "type": "personal_communication",
+        "letterType": "Lettre ouverte",
+        "abstract": "J’ai lu votre lettre à Heïdi. Et pour tous ces jeunes qui me font part de leur désarroi, j’ai voulu vous répondre. Je me suis demandé pourquoi vous n’entendiez pas la détresse de ces étudiants. Puis, je me suis souvenue... ",
+        "container-title": "",
+        "title": "J’ai lu votre lettre à Heïdi",
+        "URL": "https://twitter.com/datirachida/status/1351140407174901764",
+        "author": [
+            {
+                "literal": "Rachida Dati"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Emmanuel Macron"
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-18"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "Confinement Covid19-491",
+        "type": "personal_communication",
+        "letterType": "Lettre ouverte",
+        "abstract": "A toutes ces questions, je n'ai aucune réponse, car la politique menée envers les étudiants de ce pays ne m'en laisse le moyen d'y répondre.",
+        "container-title": "",
+        "title": "Je m'appelle Lola, je suis étudiante et je vous adresse cette lettre",
+        "URL": "https://twitter.com/bisca_lola/status/1349637162480889856",
+        "author": [
+            {
+                "literal": "Lola Bisca"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Monsieur le Président de la République"
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-14"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-492",
+        "type": "personal_communication",
+        "letterType": "Lettre ouverte",
+        "abstract": "Vous avez pris la décision d'entrouvrir leurs portes pour les étudiants les plus fragiles. A ce stade de la crise, ces étudiants fragiles sont bien plus nombreux que l'on croit.",
+        "container-title": "",
+        "title": "Pour la réouverture des universités.",
+        "URL": "https://twitter.com/valou_renou/status/1349282626499178496",
+        "author": [
+            {
+                "literal": "Valentine Renou"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Frédérique Vidal"
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-13"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
