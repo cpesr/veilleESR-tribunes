@@ -224,6 +224,11 @@ def twitter(refs):
             'hashtag' : '#EndOfBut',
             'attachment_url' : 'https://twitter.com/CPESR_/status/1334797237382209536'
             },
+        'Confinement Covid19' : {
+            'hashtag' : '#EtudiantsFantomes',
+            'image' : 'confinement-covid19.png',
+            'attachment_url' : 'https://twitter.com/CPESR_/status/1351177759305961475'
+            },
         "default": {
             'hashtag' : '#Ref',
             'attachment_url' : 'https://twitter.com/CPESR_/status/1334797237382209536'
@@ -252,11 +257,14 @@ def twitter(refs):
 
         try:
             print("Tweeting item "+ref['ID'], end='... ')
-            api.update_status(
+            newtweet = api.update_status(
                 status = statusstr,
-                media_ids = attachment['media_id'],
-                attachment_url = attachment['attachment_url']
+                media_ids = attachment['media_id']
             )
+            api.update_status(
+                status = "Retrouvez et compléter tous les référencements à ce sujet :",
+                in_reply_to_status_id = newtweet.id,
+                attachment_url = attachment['attachment_url'])
             print("DONE")
         except Exception as e:
             print("FAILED "+str(e))

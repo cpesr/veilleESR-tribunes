@@ -2551,5 +2551,74 @@
             "raw": "2021-01-12"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-481",
+        "type": "personal_communication",
+        "letterType": "Lettre ouverte",
+        "abstract": "Je comprends la difficulté du travail qui est le vôtre, Monsieur le président. Mais pour une fois je pense à moi, à nous, et je dis merde à la solidarité. On a fait notre part. Maintenant, rendez-nous un bout de vie.",
+        "container-title": "",
+        "title": "Une bouteille à la mer",
+        "URL": "https://www.facebook.com/photo.php?fbid=1836119169886857&set=a.309741309191325&type=3",
+        "author": [
+            {
+                "literal": "Heïdi Soupault"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Emmanuel Macron"
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-12"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-482",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Pour l’ensemble des conférences, le retour des nouveaux entrants est une annonce qu’il faut saluer : elle ne peut être cependant qu’une première étape. L’objectif est aujourd’hui de sauver le second semestre, en étendant la reprise aux autres années, à partir d’une date suffisamment proche pour éviter une situation de non-retour. La reprise doit concerner progressivement tous les étudiants. ",
+        "container-title": "",
+        "title": "Un petit pas vers la reprise des enseignements en présentiel : l’enseignement supérieur partiellement entendu",
+        "URL": "http://www.cpu.fr/actualite/un-petit-pas-vers-la-reprise-des-enseignements-en-presentiel-lenseignement-superieur-partiellement-entendu/",
+        "author": [
+            {
+                "literal": "CPU, CDEFI, CGE, AUREF et UDICE"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-15"
+        },
+        "note": "Plutôt favorable"
+    },
+    {
+        "id": "Confinement Covid19-483",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "La CPU appelle à la plus grande vigilance quant à la détresse morale des jeunes. La santé mentale des étudiants est un sujet de préoccupation quotidien des établissements d’enseignement public, plus que jamais dans le contexte sanitaire actuel, incertain et anxiogène. Les étudiants ont en effet besoin de confiance, de perspectives et d’horizons, comme ils ont besoin de lien social que l’université leur offre, au-delà de leur formation.\n\n",
+        "container-title": "",
+        "title": "Santé mentale des étudiants : La CPU appelle à la plus grande vigilance.",
+        "URL": "http://www.cpu.fr/actualite/sante-mentale-des-etudiants-la-cpu-appelle-a-la-plus-grande-vigilance/",
+        "author": [
+            {
+                "literal": "Conférence des présidents d’université (CPU)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-12"
+        },
+        "note": "Neutre"
     }
 ]
