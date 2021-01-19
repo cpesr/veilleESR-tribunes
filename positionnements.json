@@ -2827,5 +2827,28 @@
             "raw": "2021-01-13"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "Confinement Covid19-493",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Attaquée de toute part, y compris dans les médias qui ne soupçonnaient pas son existence, F. Vidal fait face à des interrogations ouvertes et nombreuses sur son rôle de ministre. Elle semble impuissante, non seulement dans ses choix, mais pour son poids politique dérisoire et sa communication calamiteuse. Si le retour en présentiel des étudiants de 1ère année est une fragile bonne nouvelle, on peut s’interroger sur les conséquences de cette incarnation politique évanescente pour la vision qu’ont eu les pouvoirs publics des étudiants et des universités. Frédérique Vidal aurait dû et pu convaincre plus et mieux au sein du gouvernement : encore aurait-il fallu qu’elle soit … convaincante.",
+        "container-title": "",
+        "title": "Le long chemin de croix de F. Vidal",
+        "URL": "http://universites2024.fr/le-long-chemin-de-croix-de-f-vidal/",
+        "author": [
+            {
+                "literal": "Jean-Michel Catin"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-18"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
