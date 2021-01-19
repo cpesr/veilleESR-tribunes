@@ -2712,5 +2712,51 @@
             "raw": "2021-01-17"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-488",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Si le mode distanciel à la fac devait se prolonger beaucoup plus longtemps, au mépris des signaux d’alarme qui se multiplient, Frédérique Vidal prodiguera peut-être le conseil suivant : «Non, se suicider, ce n’est pas bien.» L’Etat nounou serait alors passé du mode grotesque au mode morbide, et cela, personne ne peut le souhaiter.",
+        "container-title": "liberation.fr",
+        "title": "La macronie est un Etat nounou néo-libéral",
+        "URL": "https://www.liberation.fr/debats/2021/01/18/la-macronie-est-un-etat-nounou-neo-liberal_1817890",
+        "author": [
+            {
+                "literal": " Olivier Esteves"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-18"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "Confinement Covid19-489",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Combien de mort.e.s faut-il pour que le gouvernement réagisse et investisse enfin ? A ce stade, ce n'est même plus une question de courage, mais une question de décence : celle de mettre en place une action d'ampleur.",
+        "container-title": "",
+        "title": "Le gouvernement refuse de nous écouter : faisons-nous entendre le 26 janvier !",
+        "URL": "https://twitter.com/UnivOuverte/status/1351098475476348928",
+        "author": [
+            {
+                "literal": "34 organisations étudiantes"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-18"
+        },
+        "note": "Très défavorable"
     }
 ]
