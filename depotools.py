@@ -5,6 +5,7 @@ import json
 import argparse
 import re
 import os
+import limesurvey
 from pyzotero import zotero
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -24,6 +25,9 @@ storage_limesurvey = 'limesurvey/upload/surveys/435945/files'
 parser = argparse.ArgumentParser(description='Convertit les données issues du formulaire de référencement de tribunes et motions')
 parser.add_argument('csvfile',
                    help='Le fichier csv de réponses au formulaire limesurvey')
+parser.add_argument('--import-limesurvey', dest='importls', action='store_const',
+                   const=True, default=False,
+                   help='Importe les données depuis limesurvey (nécessite les autorisations)')
 parser.add_argument('--zotpress', dest='zotpress', action='store_const',
                    const=True, default=False,
                    help='Formate la sortie pour être compatible avec zotpress')
@@ -69,7 +73,7 @@ def format_zotpress(s):
 def read_csv(csvfile, zotpress=False, mindate='0', minid=0):
     refs = []
     with open(csvfile, newline='', encoding='utf-8') as csvfile:
-        rows = csv.DictReader(csvfile)
+        rows = csv.DictReader(csvfile,delimiter=';')
         #print(rows.fieldnames)
 
         rows.fieldnames[0] = 'ID'
@@ -270,12 +274,15 @@ def twitter(refs):
             print("FAILED "+str(e))
 
 
+
 if __name__ == "__main__":
     args = parser.parse_args()
 
+    if args.importls: limesurvey.import_limesurvey(args.csvfile)
+
     refs = read_csv(args.csvfile, args.zotpress, args.mindate, args.minid)
 
-    if args.json : print_jsoncsl(refs)
+    if args.json: print_jsoncsl(refs)
     if args.zotero is not None: update_zotero(refs, args.zotero[1], args.zotero[2], args.zotero[0])
     if args.chart is not None: make_chart(refs, args.chart[0])
     if args.storefiles: store_files(refs)
