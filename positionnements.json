@@ -2850,5 +2850,28 @@
             "raw": "2021-01-18"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "Confinement Covid19-494",
+        "type": "personal_communication",
+        "letterType": "Lettre ouverte",
+        "abstract": "Les annonces d’Emmanuel Macron constituent un premier pas important mais elles sont insuffisantes. Trop d’étudiants passeront entre les mailles du filet. Avec mes collègues, nous alertons \nJean Castex afin que le Gouvernement prenne la mesure du drame qui se joue.",
+        "container-title": "Assemblée nationale",
+        "title": "Etudiants en danger",
+        "URL": "https://twitter.com/hub_laferriere/status/1352542104472457217",
+        "author": [
+            {
+                "literal": "Député.es du groupe Écologie démocratie solidarité (Assemblée nationale)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-22"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
