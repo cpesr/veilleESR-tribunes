@@ -2873,5 +2873,28 @@
             "raw": "2021-01-22"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "Confinement Covid19-495",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Maintenant nous voilà jeudi 21 janvier après-midi, à 3 jours de la rentrée. Sans liste d'étudiants par cours et par TD, sans informations claires sur les jauges et les horaires du campus, avec des annonces de dernière minute plus absurdes et irréalistes les unes que les autres, et on nous demande de ne pas craquer ? On nous dit que la présidence de l’Université, le ministère va nous obliger à reprendre en présentiel ? Nous renvoyant l’image de tire-au-flanc convertis au confort du distanciel ?",
+        "container-title": "blogs.mediapart.fr",
+        "title": "L’excellence en temps de pandémie: chronique du naufrage des Universités",
+        "URL": "https://blogs.mediapart.fr/une-universitaire-parmi-dautres/blog/220121/l-excellence-en-temps-de-pandemie-chronique-du-naufrage-des-universites",
+        "author": [
+            {
+                "literal": "Une universitaire parmi d'autres"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-22"
+        },
+        "note": "Très défavorable"
     }
 ]
