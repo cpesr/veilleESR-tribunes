@@ -2896,5 +2896,28 @@
             "raw": "2021-01-22"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-497",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le CA de l’université de Tours, rassemblé en séance plénière le 18 janvier 2021, rappelle son attachement aux missions nationales du CNU, instance garante d’équité, d’impartialité, d’expertise et de collégialité dans l’appréciation des différents aspects de la carrière des enseignant.es-chercheur.es. Il s’indigne du caractère brutal et tardif de l’annonce faite aux candidat.es de la suppression de la qualification aux fonctions de professeur·e pour les maîtres de conférences titulaires, et dénonce cette attaque contre le caractère national du statut d’enseignant.e-chercheur.e. ",
+        "container-title": "Université de Tours",
+        "title": "Motion relative aux missions du CNU face à la loi du 24 décembre 2020 de programmation de la recherche pour les années 2021 à 2030",
+        "URL": "https://www.univ-tours.fr/medias/fichier/deliberation-n-2021-14_1611314542358-pdf?ID_FICHE=14639&INLINE=TRUE",
+        "author": [
+            {
+                "literal": "Conseil d'administration (Université de Tours)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-18"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
