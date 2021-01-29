@@ -2919,5 +2919,28 @@
             "raw": "2021-01-18"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-498",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "La particularité du BUT par rapport à une Licence Professionnelle apparaît à \ntravers  l’article  17  de  l’arrêté  du  6  décembre  2019.  Suite  au  travail  sur  le \nréférentiel  de  compétences  et  le  référentiel  de  formation,  il  apparait \nclairement  à  la  CPN  MP  –  SGM  –  PEC  que  des  modifications  doivent  être \napportées à cet arrêté pour qu’il soit en cohérence avec le BUT en tant que \ndiplôme  à  caractère  national.  En  conséquence,  la  CPN  demande  des \nmodifications afin d’avoir l’assurance que : \n-  les coefficients seront publiés dans le programme national, \n-  les volumes horaires seront publiés dans le programme national, \n-  le  contenu  détaillé  de  la  lettre  de  cadrage  sur  laquelle  se  construit \nactuellement le travail sera repris dans la publication du programme national \nou fera l’objet d’une modification de l’article 17. ",
+        "container-title": "",
+        "title": "La CPN a décidé d’arrêter toute  transmission de ses travaux",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-01-25_la-cpn-a-decide-darreter-toute-transmission-de-ses-travaux_commission-pedagogique-nationale-cpn-mesures-physiques-mp-packaging-emballage-et-conditionnement-pec-science-et-genie-des-materiaux-sgm.pdf",
+        "author": [
+            {
+                "literal": "Commission Pédagogique Nationale (CPN) Mesures Physiques (MP),  Packaging Emballage et Conditionnement (PEC), Science et Génie des  Matériaux (SGM) "
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-25"
+        },
+        "note": "Très défavorable"
     }
 ]
