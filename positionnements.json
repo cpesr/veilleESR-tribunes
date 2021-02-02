@@ -2942,5 +2942,28 @@
             "raw": "2021-01-25"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-499",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Personne  ne  semblant  prendre  la  mesure  de  l’accablement  qui  pèse  sur  les  équipes,  l’ACD \nInformation-Communication estime nécessaire de prendre position fermement. Elle refusera \nde transmettre ses travaux tant que ses demandes n’auront pas été prises en considération. ",
+        "container-title": "",
+        "title": "Pour l’inscription des coefficients dans les PN du BUT",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-02-01_pour-linscription-des-coefficients-dans-les-pn-du-but_acd-information-communication.pdf",
+        "author": [
+            {
+                "literal": "ACD Information-Communication"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-01"
+        },
+        "note": "Très défavorable"
     }
 ]

@@ -225,7 +225,7 @@ def twitter(refs):
             'attachment_url' : 'https://twitter.com/CPESR_/status/1334795697082789888'
             },
         'DUT/BUT Bachelor universitaire de technologie' : {
-            'hashtag' : '#EndOfBut',
+            'hashtag' : '#EndOfDUT',
             'attachment_url' : 'https://twitter.com/CPESR_/status/1334797237382209536'
             },
         'Confinement Covid19' : {
