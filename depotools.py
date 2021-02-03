@@ -254,9 +254,15 @@ def twitter(refs):
                 os.system('wget --directory-prefix=/tmp/ '+ref['url'])
                 src = '/tmp/'+os.path.basename(ref['url'])
                 dst = src[0:len(src)-4]+'.png'
-                os.system('convert -flatten -density 300 '+src+' '+dst)
-                res = api.media_upload(dst)
-                attachment['media_id'] = [res.media_id]
+                os.system('convert -alpha off -density 300 '+src+' '+dst)
+                attachment['media_id'] = []
+                if os.path.isfile(dst):
+                    attachment['media_id'].append(api.media_upload(dst).media_id)
+                else:
+                    i = 0
+                    while os.path.isfile(dst[0:-4]+'-'+str(i)+'.png'):
+                        attachment['media_id'].append(api.media_upload(dst[0:-4]+'-'+str(i)+'.png').media_id)
+                        i = i + 1
             else:
                 attachment['media_id'] = None
 
