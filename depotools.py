@@ -215,8 +215,6 @@ def store_files(refs):
             os.system('ssh'+' '+storage_host+' cp '+src+' '+dst)
 
 
-
-
 def twitter(refs):
     attachments = {
         "LPPR/LPR Loi de programmation de la recherche (2020)" : {
@@ -251,6 +249,13 @@ def twitter(refs):
         if 'media_id' not in attachment:
             if 'image' in attachment:
                 res = api.media_upload(attachment['image'])
+                attachment['media_id'] = [res.media_id]
+            elif storage_host in ref['url']:
+                os.system('wget --directory-prefix=/tmp/ '+ref['url'])
+                src = '/tmp/'+os.path.basename(ref['url'])
+                dst = src[0:len(src)-4]+'.png'
+                os.system('convert -flatten -density 300 '+src+' '+dst)
+                res = api.media_upload(dst)
                 attachment['media_id'] = [res.media_id]
             else:
                 attachment['media_id'] = None

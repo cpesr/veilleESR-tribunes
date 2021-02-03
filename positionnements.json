@@ -2965,5 +2965,28 @@
             "raw": "2021-02-01"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-500",
+        "type": "personal_communication",
+        "letterType": "Lettre ouverte",
+        "abstract": "Retardez d’un an votre réforme du BUT et laissez-nous au moins une chance de la mettre en œuvre\ncorrectement pour que les étudiants puissent bénéficier d’une formation, certes de qualité moindre\nque celle du DUT qu’elle aura remplacée, mais de qualité tout de même. ",
+        "container-title": "IUT de Ville-d'Avray",
+        "title": "Il faut reporter la réforme du BUT",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-02-02_il-faut-reporter-la-reforme-du-but_enseignants-iut-de-ville-d-avray.pdf",
+        "author": [
+            {
+                "literal": "Enseignants (IUT de Ville-d'Avray)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Frédérique Vidal"
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-02"
+        },
+        "note": "Très défavorable"
     }
 ]
