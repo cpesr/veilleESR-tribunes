@@ -2988,5 +2988,971 @@
             "raw": "2021-02-02"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-501",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Une logique - une nouvelle fois - technocratique du gouvernement qui s’éloigne des logiques professionnelles actuelles. Ne dilapidons pas un héritage aussi pluriel et libéral. Par pitié, ne touchez pas à notre IUT!\n\n",
+        "container-title": "www.lefigaro.fr/vox",
+        "title": "La fin du diplôme universitaire de technologie est une erreur qui risque de pénaliser les classes moyennes",
+        "URL": "https://www.lefigaro.fr/vox/societe/la-fin-du-diplome-universitaire-de-technologie-est-une-erreur-qui-risque-de-penaliser-les-classes-moyennes-20201204",
+        "author": [
+            {
+                "literal": "Marie Glinel, Joseph Gallard et Antoine Loneux-Bianco"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-12-04"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-502",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Dorénavant,  si  on  ne  nous  donne  pas  les  moyens  nécessaires  à  accomplir  notre  mission \nd’administrateur comme la diffusion de documents et d’informations en toute transparence dans des \ndélais raisonnables, nous procéderons à un blocage administratif systématique. Nous ne pouvons pas, \ndans les conditions actuelles, continuer à travailler dans l’urgence et dans l’inconnu. ",
+        "container-title": "IUT de Rouen",
+        "title": "Travailler dans l'urgence et l'inconnu",
+        "URL": "https://www.cpesr.fr/uploads/motions/2020-11-19_travailler-dans-l-urgence-et-l-inconnu_conseil-d-institut-iut-de-rouen.pdf",
+        "author": [
+            {
+                "literal": "Conseil d'institut (IUT de Rouen)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-11-19"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-503",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "La DGESIP reconnaît que le calendrier initial ne pourra pas être maintenu en l’état mais elle souligne également le danger que pourrait représenter un report complet du projet sur la rentrée 2022, en particulier au regard de la mise en œuvre de la réforme du bac, du développement d’une offre de formation concurrentielle de bachelors et de la réforme de la formation professionnelle.",
+        "container-title": "",
+        "title": "Les enseignants, départements, et IUT souhaitent -à une écrasante majorité- un report synchrone de la mise en oeuvre du BUT.",
+        "URL": "https://twitter.com/JulienGossa/status/1251425465933484038",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-04-17"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-504",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Pour ménager des équipes fatiguées et tendues vers leurs missions actuelles rendues compliquées par la crise sanitaire, le CNESER estime indispensable de reporter d’un an la mise en place et l’inscription des étudiant·es en BUT. Cela permettra de proposer une formation mûrement réfléchie, construite en concertation avec toute la communauté et lisible pour les étudiant·es comme pour les professionnels.",
+        "container-title": "",
+        "title": "Le CNESER demande le report de l’ouverture du BUT",
+        "URL": "https://www.snesup.fr/article/le-cneser-demande-le-report-de-louverture-du-bachelor-universitaire-de-technologie-motion-du-cneser-permanent-19-mai-2020",
+        "author": [
+            {
+                "literal": "CNESER"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-05-19"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-505",
+        "type": "personal_communication",
+        "letterType": "Pétition",
+        "abstract": "Le constat est là : nous serons dans l’incapacité de travailler sereinement sur ce projet dans les prochaines semaines car nous n’en avons tout simplement plus ni le temps, ni la disponibilité, ni les moyens nécessaires. En conséquence, nous demandons que la mise en place du BUT soit reportée intégralement à septembre 2022 pour la conduire vers la réussite qu’elle mérite. Nous demandons au ministère d’acter ce report dès maintenant.\n\n",
+        "container-title": "",
+        "title": "Pour le report du Bachelor universitaire de technologie (BUT) en 2022",
+        "URL": "https://www.unepetition.fr/report-du-but-en-2022",
+        "author": [
+            {
+                "literal": "Collectif de collègues des IUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-06-01"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-506",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "La réforme du Bachelor Universitaire de Technologie implique une large refonte de l’ensemble des formations universitaires opérées par les IUT, refonte qui demande du temps, en particulier pour construire les blocs de compétences. Le Sgen-CFDT et la CFDT, demandent le report de la réforme d’un an",
+        "container-title": "",
+        "title": "Bachelor universitaire de technologie: le SGEN-CFDT demande le report de la reforme",
+        "URL": "https://www.sgen-cfdt.fr/actu/bachelor-universitaire-de-technologie-le-sgen-cfdt-demande-le-report-de-la-reforme/",
+        "author": [
+            {
+                "literal": "SGEN-CFDT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-04-10"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-507",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "",
+        "container-title": "",
+        "title": "Appel pour le report de la mise en place du Bachelor universitaire de technologie (BUT).",
+        "URL": "https://twitter.com/JulienGossa/status/1244642946323972096",
+        "author": [
+            {
+                "literal": "Assemblée des chefs de département"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-03-30"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-508",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "",
+        "container-title": "",
+        "title": "Pour un report de la mise en oeuvre du BUT",
+        "URL": "https://twitter.com/MdameFlo/status/1226800228696809472",
+        "author": [
+            {
+                "literal": "ACD InfoCom"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-02-10"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-509",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous demandons au ministère de tenir réellement compte des inquiétudes et des propositions d‘acteurs directs de ces formations, à savoir les enseignants, et de revoir en profondeur le contenu de cette réforme",
+        "container-title": "IUT de Poitiers",
+        "title": "Tenir réellement compte des inquiétudes et des propositions d‘acteurs directs de ces formations",
+        "URL": "https://twitter.com/JulienGossa/status/1204669263887392769",
+        "author": [
+            {
+                "literal": "Personnels  (IUT de Poitiers)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-12-11"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-510",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "La Commission Pédagogique Nationale INFO-STID, réunie le 2 décembre 2019, a pris connaissance du projet d’arrêté (daté du 3 octobre 2019 modifié le 28 novembre 2019) portant réforme de la Licence Professionnelle dans lequel est décrite la proposition de « Bachelor Universitaire de Technologie », formation en trois ans portée par les IUT.",
+        "container-title": "",
+        "title": "Inquiétude, alerte et interrogation",
+        "URL": "https://www.snesup.fr/article/motion-de-la-commission-pedagogique-nationale-info-stid-informatique-statistique-et-informatique-decisionnelle",
+        "author": [
+            {
+                "literal": "Commission Pédagogique Nationale INFO- STID"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-12-17"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-511",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "",
+        "container-title": "",
+        "title": "Réponses (ou pas) de la DGESIP aux interrogations de la CPN Info-STID.",
+        "URL": "https://twitter.com/JulienGossa/status/1202282854664806405",
+        "author": [
+            {
+                "literal": "Compte-rendu"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-12-04"
+        },
+        "note": "Neutre"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-512",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "l'ACD n’a pas été associée à la réflexion sur cette réforme, et que le processus mis en place, très descendant, tient peu compte des spécificités des différentes spécialités. Elle regrette le manque de concertation.",
+        "container-title": "",
+        "title": "Regret du manque de concertation",
+        "URL": "https://twitter.com/JulienGossa/status/1199651342119325697",
+        "author": [
+            {
+                "literal": "ACD Carrières sociales"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-27"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-513",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Les directeurs et présidents des huit IUT de Bretagne, réunis pendant deux jours à Quimper, ont échangé sur la réforme qui va remplacer les licences professionnelles par un Bachelor universitaire de technologie (BUT). Une réforme qui, selon eux, permet de « s’adapter au marché de l’emploi actuel ».\n",
+        "container-title": "https://www.letelegramme.fr/",
+        "title": "Pour le futur Bachelor",
+        "URL": "https://www.letelegramme.fr/finistere/quimper/les-directeurs-des-iut-bretons-valident-le-futur-bachelor-22-11-2019-12439673.php",
+        "author": [
+            {
+                "literal": "Les directeurs des IUT bretons"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-22"
+        },
+        "note": "Très favorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-514",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Par cette tribune, nous, personnels universitaires de la filière technologique du supérieur, souhaitons faire part de notre indignation et de notre refus devant cette entreprise de déconstruction dénuée de toute considération pédagogique et de vision d’envergure pour la jeunesse.",
+        "container-title": "",
+        "title": "IUT, chronique d'une destruction annoncée",
+        "URL": "https://www.liberation.fr/debats/2019/11/20/iut-chronique-d-une-destruction-annoncee_1764533/",
+        "author": [
+            {
+                "literal": "Des universitaires"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-20"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-515",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Cet arrêté constitue donc une menace pour certaines L3 Pro existant actuellement en UFR et une attaque en règle contre le diplôme de DUT, les garanties qu’il apporte aux diplômés, le travail des collègues.",
+        "container-title": "",
+        "title": "Projet d'arrêté relatif à la licence professionnelle et au « bachelor universitaire de technologie",
+        "URL": "http://foesr.fr/index.php/2013-09-27-14-51-06/actualites/677-communique-fo-esr-du-21-novembre-2019",
+        "author": [
+            {
+                "literal": "FO ESR"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-19"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-516",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "Les réactions provoquées par cette réunion traduisent toutes un profond malaise et une incompréhension des  objectifs recherchés. ",
+        "container-title": "",
+        "title": "Un démantèlement pur et simple du réseau des IUT",
+        "URL": "https://twitter.com/JulienGossa/status/1196721415132794880",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "DGESIP"
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-19"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-517",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "",
+        "container-title": "",
+        "title": "Demande de clarification des moyens",
+        "URL": "https://twitter.com/JulienGossa/status/1196480462790823939",
+        "author": [
+            {
+                "literal": "ACD Information-Communication "
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-18"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-518",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "L’ACD GACO considère que les points ci-dessus ne permettent pas d’avoir une vision sereine sur le futur \nBachelor Universitaire de Technologie",
+        "container-title": "",
+        "title": "Me futur Bachelor Universitaire de Technologie",
+        "URL": "https://twitter.com/JulienGossa/status/1196479567814369283",
+        "author": [
+            {
+                "literal": "ACD Gestion Administrative et Commerciale des Organisations"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-13"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-519",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "la CPN CS-IC-MMI constate qu’elle a été mise à l’écart de la réflexion sur cette réforme ",
+        "container-title": "",
+        "title": "Mise à l’écart de la réflexion",
+        "URL": "https://twitter.com/JulienGossa/status/1196479151621976065",
+        "author": [
+            {
+                "literal": "CPN CS-IC-MMI"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-15"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-520",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "",
+        "container-title": "",
+        "title": "Le BUT en 500 mots",
+        "URL": "https://twitter.com/JulienGossa/status/1193820604421615616",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-11-11"
+        },
+        "note": "Très favorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-521",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "L'équipe pédagogique est \"extrêmement inquiète\" sur ses capacités à continuer à oeuvre dans l’intérêt des étudiants dans le contexte de la proposition du BUT.",
+        "container-title": "IUT Blagnac",
+        "title": "Extrême inquiétude",
+        "URL": "https://twitter.com/JulienGossa/status/1191844127756959745",
+        "author": [
+            {
+                "literal": "département informatique (IUT Blagnac)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-10-24"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-522",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Les enseignants ne s’associent pas à ce projet de décret qu’ils considèrent comme une approche démagogique du problème de l’insertion des filières technologiques après le bac\n",
+        "container-title": "IUT Nice côte d’Azur",
+        "title": "Dissociation du projet BUT",
+        "URL": "https://twitter.com/JulienGossa/status/1191843194926981120",
+        "author": [
+            {
+                "literal": "Département informatique (IUT Nice côte d’Azur)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-10-24"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-523",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "",
+        "container-title": "IUT de Vélizy",
+        "title": "Demande de conservation du DUT",
+        "URL": "https://twitter.com/JulienGossa/status/1191757126995259392",
+        "author": [
+            {
+                "literal": "Conseil d'institut (IUT de Vélizy)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-10-22"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-524",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le département affirme se désolidariser du vote effectué par l’ADIUT lors de son assemblée générale du 27 septembre 2019 qui adopte la proposition de \"Bachelor Universitaire de Technologie\"",
+        "container-title": "IUT d'Illkirch",
+        "title": "Désolidarisation du vote de l'ADIUT",
+        "URL": "https://twitter.com/JulienGossa/status/1187273009511448576",
+        "author": [
+            {
+                "literal": "Département informatique (IUT d'Illkirch)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-10-24"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-525",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Ensemble, les Directeurs d’IUT se sont prononcés favorablement à l’évolution d’un\nDUT en 180 ECTS. Cette première étape initie une réflexion portée par l’ensemble\ndu réseau des IUT et dont les premiers éléments de structure seront débattus début\ndécembre. ",
+        "container-title": "",
+        "title": "Refonder le Diplôme Universitaire de Technologie",
+        "URL": "https://www.iut.fr/files/fck/File/documents/docs_2017_2018/CP_ADIUT_RefonderleDUT.pdf",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2017-11-10"
+        },
+        "note": "Très favorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-526",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "L’assemblée générale de l’Assemblée des Directeurs d’IUT réunie le vendredi 27 septembre 2019 a\némis un avis favorable (90 votes « Oui » pour 99 suffrages exprimés) à la création d’un parcours\ntechnologique de Licence Professionnelle nommé Bachelor Universitaire de Technologie.\nCe projet a été co-construit avec la DGESIP, la Conférence des Présidents d’Université (CPU) et\nl’Union Nationale des Présidents d’IUT (UNPIUT).",
+        "container-title": "",
+        "title": "Avis favorable au projet d’évolution de l’offre de formation des IUT en 180 ECTS nommé « Bachelor Universitaire de Technologie",
+        "URL": "https://iut.fr/files/fck/CP-septembre2019.pdf",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-09-27"
+        },
+        "note": "Très favorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-527",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Ce 18 juin, la Commission Consultative Nationale des IUT a ratifié la proposition de cadrage du Bachelor\nUniversitaire de Technologie (B.U.T.) résultant de six mois de concertation avec les représentants des\nCommissions Pédagogiques Nationales et les acteurs du réseau des IUT.",
+        "container-title": "",
+        "title": "À la rentrée 2021, les IUT porteront près de 700 Bachelors Universitaires de Technologie",
+        "URL": "http://www.iut-alsace.fr/wp-content/uploads/2020/06/CP-ADIUT-22juin2020-BUT2021.pdf",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2020-06-22"
+        },
+        "note": "Très favorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-528",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "le positionnement proposé et les conditions de mise en œuvre associées ne sont pas encore garantis et apparaissent comme insuffisants pour donner une pleine réalité à l’ambition du projet de réforme du DUT.",
+        "container-title": "",
+        "title": "Absence de garantie",
+        "URL": "https://twitter.com/JulienGossa/status/1148966151956979712",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-07-10"
+        },
+        "note": "Plutôt favorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-529",
+        "type": "personal_communication",
+        "letterType": "CR",
+        "abstract": "Accepter la proposition (conditionnelle) : un nouvel arrêté portant réforme de la voie professionnelle et de la \nvoie technologique incluant des dispositions particulières lorsque dispensées dans un IUT, les LP prennent le nom \nde Licence Pro de Technologie (LPT)  \n \nVote des Directeurs : Pour =   11 /  Contre     = 49    /    Abs = 4 \n\nVote indicatif des PACD :  Pour =   1  / Contre    = 17   /     Abs =1 ",
+        "container-title": "",
+        "title": "Rejet massif de l'intégration du DUT dans les LP",
+        "URL": "https://www.cpesr.fr/uploads/motions/2019-07-01_rejet-massif-de-l-integration-du-dut-dans-les-lp_adiut.pdf",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-07-01"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-530",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Une telle configuration porterait de fait le risque majeur de disparition de la voie technologique.",
+        "container-title": "IUT Paul Sabatier",
+        "title": "Appel à mobilisation",
+        "URL": "https://twitter.com/JulienGossa/status/1146066550249574402",
+        "author": [
+            {
+                "literal": "Conseil d'institut (IUT Paul Sabatier)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-07-02"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-531",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "un pas vers la disparition des spécificités des IUT qui ont pourtant fait le succès des DUT, serait alors franchi.",
+        "container-title": "IUT de Rouen",
+        "title": "Un pas vers la disparition des spécificités des IUT",
+        "URL": "https://twitter.com/JulienGossa/status/1143902898805456898",
+        "author": [
+            {
+                "literal": "Conseil d'institut (IUT de Rouen)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-17"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-532",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Conseil d’Institut de l’IUT de Brest-Morlaix émet de sérieuses réserves quant à une possible intégration du « DUT180 » dans un projet global menant à le transformer en une Licence Professionnelle spécifique.",
+        "container-title": "IUT de Brest-Morlaix",
+        "title": "De sérieuses réserves",
+        "URL": "https://twitter.com/JulienGossa/status/1140528969588072448",
+        "author": [
+            {
+                "literal": "Conseil d’Institut (IUT de Brest-Morlaix)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-13"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-533",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Ce projet marquerait la disparition de la voie technologique dans le premier cycle universitaire, alors qu’elle constitue un moyen reconnu d’améliorer l’insertion professionnelle des jeunes tout en répondant aux attentes des milieux professionnels.",
+        "container-title": "IUT d'Angoulême",
+        "title": "Disparition de la voie technologique",
+        "URL": "https://twitter.com/JulienGossa/status/1140528730839928832",
+        "author": [
+            {
+                "literal": "Conseil d'institut (IUT d'Angoulême)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-13"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-534",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Conseil de l’IUT d’Allier, réuni le 11 juin 2019 et par vote à l’unanimité, fait part de son désaccord et de son inquiétude suite à la proposition du Ministère que le projet de « DUT180 » soit noyé dans un nouvel arrêté LP en 60-120-180 ECTS",
+        "container-title": "IUT d’Allier",
+        "title": "Désaccord et inquiétude",
+        "URL": "https://twitter.com/JulienGossa/status/1140528509602926593",
+        "author": [
+            {
+                "literal": "Conseil d'institut (IUT d’Allier)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-11"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-535",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Conseil d’Institut de l’IUT de Poitiers-Châtellerault-Niort, réuni le 13 juin 2019, émet de sérieuses réserves quant à une possible intégration du « DUT180 » dans un projet global menant à le transformer en une Licence Professionnelle spécifique.",
+        "container-title": "IUT de Poitiers-Châtellerault-Niort",
+        "title": "Sérieuses réserves",
+        "URL": "https://twitter.com/JulienGossa/status/1140528258037030912",
+        "author": [
+            {
+                "literal": "Conseil d’Institut (IUT de Poitiers-Châtellerault-Niort)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-13"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-536",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Conseil d’Institut de l’IUT de Vannes émet de sérieuses réserves quant à une possible intégration du « DUT180 » dans un projet global menant à le transformer en une Licence Professionnelle\nspécifique.",
+        "container-title": "IUT de Vannes",
+        "title": "Sérieuses réserves",
+        "URL": "https://twitter.com/JulienGossa/status/1140528035680137216",
+        "author": [
+            {
+                "literal": "Conseil d’Institut (IUT de Vannes)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-17"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-537",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le projet de « DUT180 » ne saurait justifier le renoncement de ces spécificités qui constituent le socle intangible d’un modèle agile au service d’une offre universitaire technologique professionnalisante de qualité.",
+        "container-title": "IUT de Lorient et Pontivy",
+        "title": "Renoncement",
+        "URL": "https://twitter.com/JulienGossa/status/1140527722516627461",
+        "author": [
+            {
+                "literal": "conseil d'Institut (IUT de Lorient et Pontivy)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-06"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-538",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Conseil d’Institut de l’IUT de Belfort-Montbéliard, réuni le 13 juin 2019, émet de sérieuses réserves\nquant à une possible intégration du « DUT180 » dans un projet global menant à le transformer en une Licence Professionnelle.",
+        "container-title": "IUT de Belfort-Montbéliard",
+        "title": "Sérieuses réserves",
+        "URL": "https://twitter.com/JulienGossa/status/1140527475358871553",
+        "author": [
+            {
+                "literal": "Conseil d’Institut (IUT de Belfort-Montbéliard)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-13"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-539",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Le Conseil d’Institut de l’IUT de Rennes, réuni le 6 juin 2019, émet de sérieuses réserves quant à une possible intégration du « DUT180 » dans un projet global menant à le transformer en une Licence Professionnelle spécifique.",
+        "container-title": "IUT de Rennes",
+        "title": "Sérieuses réserves",
+        "URL": "https://twitter.com/JulienGossa/status/1140523144698040320",
+        "author": [
+            {
+                "literal": "Conseil d’Institut  (IUT de Rennes)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-06"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-540",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Les ACD CJ, GACO, GEA, GLT et TC s’opposent à une possible transformation du projet de \"DUT180 \" en une Licence Professionnelle spécifique qui rend illisible l’offre de formation en IUT.",
+        "container-title": "",
+        "title": "Opposition à une possible transformation du projet de \"DUT180 \" en une Licence Professionnelle",
+        "URL": "https://twitter.com/JulienGossa/status/1140522726626668546",
+        "author": [
+            {
+                "literal": "ACD CJ, GACO, GEA, GLT et TC"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-17"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-541",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "L'ACD Info-Com réitère son soutien au projet de DUT 180, comprenant des volumes horaires qui ne sauraient être inférieurs à 1 900 heures pour les DUT du secteur tertiaire et 2 100 heures pour les DUT du secteur secondaire.",
+        "container-title": "",
+        "title": "Soutien au projet sans baisse d'heures",
+        "URL": "https://twitter.com/JulienGossa/status/1136987106721574913",
+        "author": [
+            {
+                "literal": "ACD Info-Com"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-07"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-542",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Cette fin organisée, programmée et souhaitée par le Ministère ne saurait laisser indifférents la communauté\nuniversitaire mais également les dizaines de milliers d’étudiants, les réseaux des anciens étudiants comme des\nparents d’élèves attachés à ce dispositif qui a montré toute sa force depuis ces années.",
+        "container-title": "",
+        "title": "Alerte sur la fin organisée, programmée et souhaitée par le Ministère du DUT",
+        "URL": "https://fredericgervais.files.wordpress.com/2019/06/motion_acdi.pdf",
+        "author": [
+            {
+                "literal": "ACD Informatique"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2019-06-07"
+        },
+        "note": "Très défavorable"
     }
 ]
