@@ -19,6 +19,7 @@ python3 depotools.py results-survey435945.csv --storefiles --minid $minid
 python3 depotools.py results-survey435945.csv --json-csl > positionnements.json
 python3 depotools.py results-survey435945.csv --chart 'LPPR/LPR Loi de programmation de la recherche (2020)'
 python3 depotools.py results-survey435945.csv --chart 'Confinement Covid19'
+python3 depotools.py results-survey435945.csv --chart 'DUT/BUT Bachelor universitaire de technologie'
 python3 depotools.py results-survey435945.csv --twitter --minid $minid
 
 git add results-survey435945.csv positionnements.json *.png
