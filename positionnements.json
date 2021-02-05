@@ -3954,5 +3954,74 @@
             "raw": "2019-06-07"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "Confinement Covid19-543",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Alors que les premiers résultats obtenus à la fin du premier confinement ont été publiés dans le réputé Journal of Affective Disorders, ils n’ont pas pour l’instant été relayés dans la presse et ne sont probablement pas connus de nos décideurs politiques. Nous présentons donc ici les principaux résultats de cette étude ainsi que d’autres données plus récentes qui feront l’objet d’autres publications afin que ces résultats puissent éclairer les décisions politiques à venir en ce domaine.",
+        "container-title": "www.lemonde.fr",
+        "title": "Nous disposons de données qui questionnent l’émergence possible d’une épidémie de suicides chez les étudiants",
+        "URL": "https://www.lemonde.fr/idees/article/2021/02/04/nous-disposons-de-donnees-qui-questionnent-l-emergence-possible-d-une-epidemie-de-suicides-chez-les-etudiants_6068774_3232.html?utm_medium=Social&utm_source=Twitter#Echobox=1612448528",
+        "author": [
+            {
+                "literal": "collectif"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-04"
+        },
+        "note": "Neutre"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-545",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Nous refuserons désormais de participer à ce processus de mise en place d’une réforme précipitée, bâclée, et dont les contraintes imposées par le ministère nous sont dévoilées au fur et à mesure de nos travaux.",
+        "container-title": "Interne",
+        "title": "Motion du département INFORMATIQUE de l'IUT de Vélizy-Rambouillet",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-02-04_motion-du-departement-informatique-de-l-iut-de-velizy-rambouillet_les-membres-du-departement-a-l-unanimite-interne.pdf",
+        "author": [
+            {
+                "literal": "Les membres du département à l'unanimité (Interne)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "L'ACD INFO"
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-04"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-546",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Dans l’attente d’une réponse à ces demandes, la CPN a décidé d’arrêter toute transmission de ses travaux.",
+        "container-title": "",
+        "title": "Motion CPN GEII/RT",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-01-29_motion-cpn-geii-rt_les-membres-de-la-cpn.pdf",
+        "author": [
+            {
+                "literal": "Les membres de la CPN"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "DGESIP"
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-29"
+        },
+        "note": "Très défavorable"
     }
 ]
