@@ -4023,5 +4023,28 @@
             "raw": "2021-01-29"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-548",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Montrez-nous que votre objectif n’est pas de sauver les apparences en prétendant que tout est sous contrôle quand, dans les faits, vous aurez juste ajouté une dose de désordre à tout ce chaos. Retardez d’un an votre réforme et laissez-nous au moins une chance de la mettre en œuvre correctement pour que les étudiants puissent bénéficier d’une formation, certes de qualité moindre que celle du DUT, mais de qualité tout de même.",
+        "container-title": "IUT de Ville-d’Avray",
+        "title": "Réforme des IUT : pourquoi tant d’urgence ?",
+        "URL": "https://www.liberation.fr/idees-et-debats/tribunes/reforme-des-iut-pourquoi-tant-durgence-20210209_RCVULS6CGBGORBOM63ARRPW62E/",
+        "author": [
+            {
+                "literal": "Enseignants"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-09"
+        },
+        "note": "Très défavorable"
     }
 ]
