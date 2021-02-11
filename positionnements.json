@@ -4046,5 +4046,28 @@
             "raw": "2021-02-09"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-550",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "En ne permettant pas aux IUT de disposer d’un arrêté spécifique pour une licence universitaire de technologie, le ministère entend casser cette dynamique vertueuse, comme il l'a fait avec les réformes des baccalauréats, le gouvernement est en train de revoir à la baisse l’ambition des formations du service public de l’ESR. La remise en cause du caractère national des coefficients en est la parfaite illustration. ",
+        "container-title": "",
+        "title": "BUT: exigeons le maintien du cadrage national des formations!",
+        "URL": "https://www.snesup.fr/article/exigeons-le-maintien-du-cadrage-national-des-formations-communique-de-presse-du-10-fevrier-2020",
+        "author": [
+            {
+                "literal": "SNESUP-FSU"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-10"
+        },
+        "note": "Très défavorable"
     }
 ]
