@@ -4069,5 +4069,51 @@
             "raw": "2021-02-10"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-551",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "L’Assemblée  des  Chefs  de  Départements  Mesures  Physiques  tient  à  exprimer  son  opposition à l’annonce de la non publication dans les programmes de BUT des coefficients  des unités d’enseignements et de leur répartition à l’intérieur de ces unités. Cette non  publication provoquerait une disparition du caractère national du BUT, et aurait pour  effet  de  fragiliser  le  travail  de  tous  les  acteurs  qui  puisent  une  grande  partie  de  leur  motivation dans ce caractère national du BUT. ",
+        "container-title": "",
+        "title": "Sur la rédaction du référentiel de formation du BUT",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-02-06_sur-la-redaction-du-referentiel-de-formation-du-but_acd-mesures-physiques.pdf",
+        "author": [
+            {
+                "literal": "ACD Mesures Physiques"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-06"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-552",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Pour ces raisons, l’ACD Mesures Physiques manifeste par cette motion son opposition à la mise en  œuvre  d’une  telle  mesure  et  se  joint  aux  nombreuses  sociétés  de  linguistes  et  associations  universitaires.",
+        "container-title": "",
+        "title": "Contre la certification obligatoire en DUT et LP",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-01-27_contre-la-certification-obligatoire-en-dut-et-lp_acd-mesures-physiques.pdf",
+        "author": [
+            {
+                "literal": "ACD Mesures Physiques"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-01-27"
+        },
+        "note": "Très défavorable"
     }
 ]
