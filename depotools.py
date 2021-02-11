@@ -5,6 +5,7 @@ import json
 import argparse
 import re
 import os
+import copy
 import limesurvey
 from pyzotero import zotero
 import pandas as pd
@@ -224,6 +225,7 @@ def twitter(refs):
             },
         'DUT/BUT Bachelor universitaire de technologie' : {
             'hashtag' : '#EndOfDUT',
+            'image' : 'dut-but-bachelor-universitaire-de-technologie.png',
             'attachment_url' : 'https://twitter.com/CPESR_/status/1357381919898501120'
             },
         'Confinement Covid19' : {
@@ -242,29 +244,25 @@ def twitter(refs):
     for ref in refs:
 
         if ref['objet'] in attachments:
-            attachment = attachments[ref['objet']]
+            attachment = copy.deepcopy(attachments[ref['objet']])
         else:
-            attachment = attachments['default']
+            attachment = copy.deepcopy(attachments['default'])
 
-        if 'media_id' not in attachment:
-            if 'image' in attachment:
-                res = api.media_upload(attachment['image'])
-                attachment['media_id'] = [res.media_id]
-            elif storage_host in ref['url']:
-                os.system('wget --directory-prefix=/tmp/ '+ref['url'])
-                src = '/tmp/'+os.path.basename(ref['url'])
-                dst = src[0:len(src)-4]+'.png'
-                os.system('convert -alpha off -density 300 '+src+' '+dst)
-                attachment['media_id'] = []
-                if os.path.isfile(dst):
-                    attachment['media_id'].append(api.media_upload(dst).media_id)
-                else:
-                    i = 0
-                    while os.path.isfile(dst[0:-4]+'-'+str(i)+'.png'):
-                        attachment['media_id'].append(api.media_upload(dst[0:-4]+'-'+str(i)+'.png').media_id)
-                        i = i + 1
+        if ".pdf" in ref['url']:
+            os.system('wget --directory-prefix=/tmp/ '+ref['url'])
+            src = '/tmp/'+os.path.basename(ref['url'])
+            dst = src[0:len(src)-4]+'.png'
+            os.system('convert -alpha remove -background white -density 300 '+src+' '+dst)
+            attachment['media_id'] = []
+            if os.path.isfile(dst):
+                attachment['media_id'].append(api.media_upload(dst).media_id)
             else:
-                attachment['media_id'] = None
+                i = 0
+                while os.path.isfile(dst[0:-4]+'-'+str(i)+'.png'):
+                    attachment['media_id'].append(api.media_upload(dst[0:-4]+'-'+str(i)+'.png').media_id)
+                    i = i + 1
+        else:
+            attachment['media_id'] = None
 
         s = ref['titre']+' - '+ref['type']+' '+ref['position'].lower()+' de '+ref['auteurs']
         if len(s) > 220: s=s[0:219]+'...'
@@ -276,10 +274,20 @@ def twitter(refs):
                 status = statusstr,
                 media_ids = attachment['media_id']
             )
+
+            ## Ajouter lien vers service de dépôt
+            if 'image' in attachment:
+                res = api.media_upload(attachment['image'])
+                media_ids = [res.media_id]
+            else:
+                media_ids = None
+
             api.update_status(
                 status = "Retrouvez et compléter tous les référencements à ce sujet :",
                 in_reply_to_status_id = newtweet.id,
+                media_ids = media_ids,
                 attachment_url = attachment['attachment_url'])
+
             print("DONE")
         except Exception as e:
             print("FAILED "+str(e))
