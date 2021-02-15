@@ -4115,5 +4115,28 @@
             "raw": "2021-01-27"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-555",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Tout porte à penser, surtout, que le recrutement des maîtres de conférences, ou leur promotion aux fonctions de professeur, se fera à l’avenir sans véritable régulation scientifique, puisqu’il est toujours possible de composer les comités de sélection en fonction de desseins particuliers.",
+        "container-title": "www.lemonde.fr",
+        "title": "Le risque existe que le mode de recrutement débouche sur un certain clientélisme, notamment politique",
+        "URL": "https://www.lemonde.fr/idees/article/2021/02/14/universite-le-risque-existe-que-le-mode-de-recrutement-debouche-sur-un-certain-clientelisme-notamment-politique_6069899_3232.html",
+        "author": [
+            {
+                "literal": "Des enseignants-chercheurs en Droit "
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-14"
+        },
+        "note": "Très défavorable"
     }
 ]
