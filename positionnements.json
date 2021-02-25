@@ -4138,5 +4138,28 @@
             "raw": "2021-02-14"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-556",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Le SNESUP-FSU a dès le départ demandé le report de cette réforme. Il appelle donc les collègues à ne pas remonter leurs travaux à la CCN-IUT et aux CPN. Dans l’intérêt des étudiant·es, il appelle les collègues à aménager les programmes pour la rentrée 2021 en se rapprochant le plus possible de l'existant, c’est-à-dire de leur DUT. Participer à toute forme de cadrage supplémentaire mettrait en danger la formation dans les IUT, et il nous faut donc fermement le refuser.\n\n",
+        "container-title": "",
+        "title": "Non à la mise en place d’une réforme bâclée des IUT",
+        "URL": "https://www.snesup.fr/article/non-la-mise-en-place-dune-reforme-baclee-des-iut-communique-de-presse-du-snesup-fsu-du-24-fevrier-2021",
+        "author": [
+            {
+                "literal": "SNESUP-FSU"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-24"
+        },
+        "note": "Très défavorable"
     }
 ]
