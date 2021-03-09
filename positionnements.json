@@ -4184,5 +4184,28 @@
             "raw": "2021-02-18"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-558",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "Compte tenu des différents éléments cités ci-dessus, les directeurs ne comprennent pas l’injonction qui leur est assignée par les rectorats considérant que ceci ne contribue ni à la réussite des étudiants, ni à la réussite de mise en œuvre du B.U.T..",
+        "container-title": "ADIUT",
+        "title": "Taux de bacheliers technologiques dans les parcours de B.U.T. à la rentrée 2021",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-03-08_taux-de-bacheliers-technologiques-dans-les-parcours-de-b-u-t-a-la-rentree-2021_alexandra-knaebel-adiut.pdf",
+        "author": [
+            {
+                "literal": "Alexandra KNAEBEL (ADIUT)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "DGESIP"
+            }
+        ],
+        "issued": {
+            "raw": "2021-03-08"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
