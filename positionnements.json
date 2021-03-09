@@ -4207,5 +4207,28 @@
             "raw": "2021-03-08"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-559",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Pour ces raisons, et dans le souhait de s’inscrire dans une démarche visant au développement\nde la recherche fondamentale et à la défense de ses intérêts impérieux, les CES 40 et 48\nde l’ANR rejoignent les avis des nombreux autres comités, unités, instances de recherche et\nsociétés savantes qui ont exprimé leur désaccord vis à vis de la nouvelle Loi de Programmation\nde la Recherche.",
+        "container-title": "ANR",
+        "title": "Loi de Programmation de la Recherche",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-02-16_loi-de-programmation-de-la-recherche_comites-d-evaluation-scientifique-ces-40-et-48-anr.pdf",
+        "author": [
+            {
+                "literal": "Comités d'évaluation scientiﬁque (CES) 40 et 48 (ANR)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-02-16"
+        },
+        "note": "Très défavorable"
     }
 ]
