@@ -4230,5 +4230,28 @@
             "raw": "2021-02-16"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "Démission en raison de la situation générale-562",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": " C’est un cri de désespoir, faisant écho à bien d’autres, \ndont je souhaite seulement qu’il résonne un peu, à défaut de faire vaciller les certitudes des personnes \nqui décident localement, et plus largement, du sort de nos formations. Dans cette situation de plus en \nplus  critique,  je  mesure  bien  évidemment  la  « chance »  que  j’ai  d’être  titulaire  mais  je  ne  peux  que \ndéplorer la misère à laquelle est réduit notre métier, particulièrement en sciences humaines et a fortiori \nen arts et à Lille. ",
+        "container-title": "Université de Lille",
+        "title": "Démission de ma responsabilité dans le naufrage des arts à l’université de Lille",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-03-16_demission-de-ma-responsabilite-dans-le-naufrage-des-arts-a-luniversite-de-lille_anne-creissels.pdf",
+        "author": [
+            {
+                "literal": "Anne Creissels"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-03-16"
+        },
+        "note": "Très défavorable"
     }
 ]
