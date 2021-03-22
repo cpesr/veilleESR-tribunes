@@ -4276,5 +4276,51 @@
             "raw": "2021-03-18"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-564",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "",
+        "container-title": "Site web de SPECIF-CAMPUS",
+        "title": "Conditions de la mise en place du Bachelor Universitaire de Technologie (BUT) à la rentrée 2021",
+        "URL": "https://www.specifcampus.fr/conditions-de-la-mise-en-place-du-bachelor-universitaire-de-technologie-but-a-la-rentree-2021/",
+        "author": [
+            {
+                "literal": "SPECIF CAMPUS (Site web de SPECIF-CAMPUS)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-03-19"
+        },
+        "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-565",
+        "type": "personal_communication",
+        "letterType": "Pétition",
+        "abstract": "C’est clairement la fin du caractère national de notre diplôme, qui était jusqu’à présent un gage de qualité vis-à-vis de nos étudiants et des entreprises qui les recrutaient une fois diplômés.\nLes conditions actuelles de mise en place de ce nouveau diplôme ne présentent clairement pas les garanties nécessaires à un diplôme national de qualité.",
+        "container-title": "",
+        "title": "L'actuelle réforme du DUT menace l'avenir des IUT !",
+        "URL": "https://www.mesopinions.com/petition/autres/actuelle-reforme-dut-menace-avenir-iut/131203",
+        "author": [
+            {
+                "literal": "Collectif d'enseignants pour la sauvegarde des IUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-03-19"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
