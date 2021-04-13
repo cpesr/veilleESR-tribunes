@@ -4322,5 +4322,28 @@
             "raw": "2021-03-19"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-568",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Face à ces difficultés et malgré linventivité et l'investissement sans faille de nos équipes pédagogique et administrative, nounous résignons à : décaler d'un mois la rentrée, et fermer un nouveau groupe et demi de TD en première année.",
+        "container-title": "Nice-UCA",
+        "title": "Grande précarité pédagogique",
+        "URL": "https://twitter.com/C_Papazian/status/1381883186293116932",
+        "author": [
+            {
+                "literal": "IUT informatique (Nice-UCA)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-04-13"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
