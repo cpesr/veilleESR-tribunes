@@ -4345,5 +4345,28 @@
             "raw": "2021-04-13"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-569",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "Or, il s’avère que cette logique de progressivité et les enjeux afférents ne sont pas entendus par les \ninstances académiques et qu’à la politique de qualité et de co-construction proposée par les IUT est \nopposée une politique quantitative de gestion des flux, dès la rentrée 2021, sous la forme de taux \nimposés  de  bacheliers  technologiques.  Cette  politique  du  chiffre  conduira  nécessairement  à  un \nrecrutement  déséquilibré  qui  fragilisera  la  réussite  des  bacheliers  technologiques,  remettra \nfondamentalement  en  cause  le  principe  d’égalité  des  chances  de  tout  candidat  et  ne  contribuera \nparadoxalement qu’à menacer l’attractivité des B.U.T..  ",
+        "container-title": "",
+        "title": "Taux de bacheliers technologiques dans les parcours de B.U.T. à la rentrée 2021",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-04-15_taux-de-bacheliers-technologiques-dans-les-parcours-de-b-u-t-a-la-rentree-2021_adiut.pdf",
+        "author": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Madame Frédérique VIDAL"
+            }
+        ],
+        "issued": {
+            "raw": "2021-04-15"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
