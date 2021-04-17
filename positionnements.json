@@ -4368,5 +4368,28 @@
             "raw": "2021-04-15"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-570",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Au final, qu’importe le succès du DUT auprès des étudiants, des collègues et des entreprises !\nLa réforme du BUT vise-t-elle autre chose que la destruction d’un diplôme national reconnu, de cette\nréussite qu’est le DUT, et, à terme, la mort des IUT eux-mêmes ? Dans le contexte de la\n« professionnalisation » de la licence, pourquoi maintenir la spécificité des IUT – censés coûter trop\ncher, avec leur taux d’encadrement élevé et leurs groupes de TD et TP à effectifs limités, rappelé dans\nl’arrêté du 3 août 2005. Seulement voilà… le ministère a annoncé qu’il programme son abrogation à\nterme (point évoqué à la réunion CCN du 18 février",
+        "container-title": "",
+        "title": "Pas de BUT, diplôme d’établissement, à la rentrée ! Maintien du DUT, diplôme national !",
+        "URL": "http://www.foesr.fr/foesr/communiques/links/2021-03-29_Communique-FO-ESR-IUT.pdf",
+        "author": [
+            {
+                "literal": "FO-ESR"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-03-29"
+        },
+        "note": "Très défavorable"
     }
 ]
