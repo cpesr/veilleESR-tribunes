@@ -4391,5 +4391,28 @@
             "raw": "2021-03-29"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-571",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "Apporter de la souplesse dans l’écriture des référentiels et du PN s’avère aujourd’hui essentiel à la \nconstruction d’un diplôme de qualité. Les PACD des 24 spécialités ont besoin de réponses claires pour \npoursuivre les travaux en cours. ",
+        "container-title": "",
+        "title": "Demande d'adaptations et de précisions",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-03-17_demande-d-adaptations-et-de-precisions_les-pacd-des-24-specialites.pdf",
+        "author": [
+            {
+                "literal": "Les PACD des 24 spécialités"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Monsieur Germinet, président de la CCN-IUT"
+            }
+        ],
+        "issued": {
+            "raw": "2021-03-17"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
