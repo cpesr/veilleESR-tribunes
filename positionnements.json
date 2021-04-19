@@ -4414,5 +4414,28 @@
             "raw": "2021-03-17"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-572",
+        "type": "article-newspaper",
+        "letterType": "Tribune",
+        "abstract": "Pour un collectif d’enseignants de l’Université, la réforme voulue par le ministère de l’ESRI visant à transformer le DUT (Diplôme Universitaire de Technologie) en BUT (Bachelor Universitaire de Technologie) menace fortement la qualité de ce diplôme !\n",
+        "container-title": "l'Humanité",
+        "title": "Menace sur les IUT !",
+        "URL": "https://www.humanite.fr/menace-sur-les-iut-703621",
+        "author": [
+            {
+                "literal": "Collectif"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-04-15"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
