@@ -4483,5 +4483,28 @@
             "raw": "2021-03-26"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-576",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "In fine, le 9 avril 2021, les administrateurs de la CDEFI, représentatifs de la diversité des écoles d’ingénieurs, ont, à l’unanimité, acté la position selon laquelle, la poursuite d’études des futurs titulaires d’un BUT dans les écoles d’ingénieurs la plus adéquate était celle d’une admission en 1re année de cycle ingénieur. De même, la formation de DUT ayant évolué, et estimant que les conditions de réussite ne seront pas toutes réunies, la CDEFI n’est pas favorable à une intégration des apprenants de 2e année de BUT, même s’ils sont titulaires d’un DUT, en 1re année de cycle ingénieur. ",
+        "container-title": "",
+        "title": "Poursuite d’études des étudiants en BUT dans les écoles d’ingénieurs",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-04-12_poursuite-detudes-des-etudiants-en-but-dans-les-ecoles-dingenieurs_cdefi.pdf",
+        "author": [
+            {
+                "literal": "CDEFI"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "CTI"
+            }
+        ],
+        "issued": {
+            "raw": "2021-04-12"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
