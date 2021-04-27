@@ -4437,5 +4437,51 @@
             "raw": "2021-04-15"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-574",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "Pour toutes ces raisons, l'objectif de 50% de bacheliers technologiques est impérieux et ne saurait bien entendu être différé.\nPour autant, consciente que le vivier des bacheliers technologiques peut, dans certaines spécialités du BUT, se révéler insuffisant pour remplir cet objectif quantificatif de 50%, nous avons pris le parti de proposer quelques souplesses...",
+        "container-title": "",
+        "title": "Réponse à l'ADIUT",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-04-23_reponse-a-l-adiut_dgesip.pdf",
+        "author": [
+            {
+                "literal": "DGESIP"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "ADIUT"
+            }
+        ],
+        "issued": {
+            "raw": "2021-04-23"
+        },
+        "note": "Très favorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-575",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Les IUT sont actuellement dans une situation d’une complexité sans précédent depuis leurs 55 ans d’existence : ils mettent en place pour la rentrée 2021 la réforme du Bachelor universitaire de technologie sur fond de restructuration de leur offre de formation, d’une baisse du volume annuel-étudiant et d’une obligation à intégrer 50% de bacheliers technologiques.\n\nLa SIF appuie la motion votée par le CA de Spécif Campus à ce propos, et vous invite à en prendre connaissance https://www.specifcampus.fr/conditions-de-la-mise-en-place-du-bachelor-universitaire-de-technologie-but-a-la-rentree-2021/",
+        "container-title": "",
+        "title": "Au sujet de la réforme du Bachelor universitaire de technologie",
+        "URL": "https://www.societe-informatique-de-france.fr/2021/03/au-sujet-de-la-reforme-du-bachelor-universitaire-de-technologie/",
+        "author": [
+            {
+                "literal": "Société informatique de France (SIF)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-03-26"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
