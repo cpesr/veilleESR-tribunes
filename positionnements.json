@@ -4552,5 +4552,28 @@
             "raw": "2021-04-30"
         },
         "note": "Neutre"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-579",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "Au lieu de cela, la marche forcée imposée casse cet équilibre subtil basé sur une adéquation nécessaire\nentre les profils des jeunes recrutés, les programmes proposés et la prise en compte des attentes du\nmonde professionnel. En effet, nous allons être contraints d’accueillir des jeunes mal préparés dans la\ndéfinition de leur projet d’études, dans des programmes dont l’écriture n’est pas aboutie et sans avoir\nassocié le monde professionnel à cette réforme qui va pourtant l’impacter directement. \n",
+        "container-title": "",
+        "title": "A propos du BUT",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-05-03_a-propos-du-but_presidences-et-directions-des-iut-de-la-region-auvergne-rhone-alpes-urpiut.pdf",
+        "author": [
+            {
+                "literal": "Présidences et directions des IUT de la Région Auvergne Rhône-Alpes (URPIUT)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Frédérique Vidal"
+            }
+        ],
+        "issued": {
+            "raw": "2021-05-03"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
