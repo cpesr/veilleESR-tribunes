@@ -4575,5 +4575,28 @@
             "raw": "2021-05-03"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "DUTBUT Bachelor universitaire de technologie-580",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "En outre nous sommes surpris par le manque de courage politique de la Ministre qui\nn’ose pas annoncer elle-même les contours de sa politique. Aujourd’hui, Parcoursup\nse voit attribuer des prérogatives ministérielles en se voyant confier la politique de\nrecrutement dans les IUT. Cette réalité interroge la souveraineté des jurys d’admissions\ndes IUT, premiers garants de la capacité du candidat à suivre une formation en rapport\navec ses choix.",
+        "container-title": "",
+        "title": "Les IUT de l’UGA dénoncent la méthode de la Ministre Vidal qui bouleverse les modalités de recrutement des lycéens en pénalisant, dès cette année, les bacheliers généraux",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-04-26_les-iut-de-luga-denoncent-la-methode-de-la-ministre-vidal-qui-bouleverse-les-modalites-de-recrutement-des-lyceens-en-penalisant-des-cette-annee-les-bacheliers-generaux_leut-et-les-iut-de-luniversite-de-grenoble-alpes.pdf",
+        "author": [
+            {
+                "literal": "L’EUT et les IUT de l’Université de Grenoble Alpes"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-04-26"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
