@@ -4598,5 +4598,74 @@
             "raw": "2021-04-26"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-582",
+        "type": "personal_communication",
+        "letterType": "Communiqué",
+        "abstract": "Le Bureau de l’ANCMSP alerte sur la non publication de l’arrêté actant la revalorisation de la rémunération des contrats doctoraux promise par le MESRI dans le cadre de la Loi de programmation de la recherche (LPR).\n\n",
+        "container-title": "",
+        "title": "Communiqué sur la (non-)revalorisation des contrats doctoraux",
+        "URL": "https://ancmsp.com/2021/09/10/communique-sur-la-non-revalorisation-des-contrats-doctoraux/",
+        "author": [
+            {
+                "literal": "ANCMSP"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-09-10"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Carrières académiques-585",
+        "type": "personal_communication",
+        "letterType": "Enquête",
+        "abstract": "Cette enquête par questionnaire « Coup de Blouse » a été menée auprès de 481 docteur.e.s en biologie. Nous observons notamment que 23% des docteur.e.s ayant quitté la carrière académique ont obtenu un autre diplôme (master, DU, MBA, formation professionnalisante, etc) à la suite de leur doctorat. Cet état de fait pose question sur le positionnement du doctorat en France. Une corrélation (sans analyse statistique étant donné la taille de l'échantillon et la forme de l'étude) se dessine entre cette \"reformation\" et un taux plus faible de chômage / meilleur accès à l'emploi hors du secteur académique. Une liste de formations suivies par les docteur.e.s en biologie après leur thèse est collectée par cette enquête. ",
+        "container-title": "",
+        "title": "Enquête Coup de Blouse, enquête sur le devenir des docteur.e.s en sciences de la vie",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-05-12_enquete-coup-de-blouse-enquete-sur-le-devenir-des-docteur-e-s-en-sciences-de-la-vie_grezy-aude-assrir-assia-gheerbrant-vianney.pdf",
+        "author": [
+            {
+                "literal": "Grezy Aude, Assrir Assia, Gheerbrant Vianney"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-05-12"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "LPPRLPR Loi de programmation de la recherche (2020)-586",
+        "type": "personal_communication",
+        "letterType": "Enquête",
+        "abstract": "L’annonce de la loi de programmation pluriannuelle de la recherche (LPPR) puis de\nses mesures ont entraîné une importante mobilisation de la communauté universitaire. Nous\nnous intéressons ici à ce projet de loi néolibéral, à son contenu et à sa cohérence avec les\nréformes précédentes de l’enseignement supérieur et de la recherche (ESR), ainsi qu’à la\nstratégie hypothétiquement déployée par le gouvernement pour le défendre, afin de\ncomprendre les raisons de la colère de ses opposants. Nous nous intéressons également à la\nmobilisation en elle-même, au contexte plus large de lutte dans lequel elle s’inscrit, aux\nmoyens d’actions utilisés par les acteurs de l’ESR pour réclamer son abandon et aux\norientations alternatives qu’ils proposent pour l’avenir de la recherche française.",
+        "container-title": "Université Gustave Eiffel",
+        "title": "La mobilisation contre la Loi de Programmation de la Recherche de 2020. Luttes et débats autour de la politique de recherche publique en France",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-10-01_la-mobilisation-contre-la-loi-de-programmation-de-la-recherche-de-2020-luttes-et-debats-autour-de-la-politique-de-recherche-publique-en-france_jordan-gamaire-universite-gustave-eiffel.pdf",
+        "author": [
+            {
+                "literal": " Jordan Gamaire (Université Gustave Eiffel)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-10-01"
+        },
+        "note": "Neutre"
     }
 ]
