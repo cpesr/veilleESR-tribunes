@@ -9,12 +9,17 @@ def import_limesurvey(csvfilename="results.csv"):
     password = os.getenv("LS_PASSWORD")
     url = "https://enquete.cpesr.fr/index.php/admin/remotecontrol"
 
+    if username is None:
+        raises("LS_USERNAME et LS_PASSWORD doivent être définis")
+
     payload = {
         "method": "get_session_key",
         "params": {'username':username,'password':password,'plugin':"Authdb"},
         "jsonrpc": "2.0",
         "id": 1 }
     response = requests.post(url, json=payload).json()
+    if not isinstance(response['result'], str):
+        raise RuntimeError(response['result']['status'])
     sessionKey = response['result']
 
     payload = {
