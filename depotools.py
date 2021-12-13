@@ -283,7 +283,7 @@ def twitter(refs):
                 media_ids = None
 
             api.update_status(
-                status = "Retrouvez et compléter tous les référencements à ce sujet :",
+                status = "Retrouvez et complétez tous les référencements à ce sujet :",
                 in_reply_to_status_id = newtweet.id,
                 media_ids = media_ids,
                 attachment_url = attachment['attachment_url'])
