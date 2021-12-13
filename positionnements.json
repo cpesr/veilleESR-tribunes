@@ -4690,5 +4690,28 @@
             "raw": "2021-12-07"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "TrouverMonMaster-588",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": " nous demandons que la plateforme de candidatures TMM ne soit pas mise en production de façon obligatoire en 2022",
+        "container-title": "",
+        "title": "plateforme de candidature en master",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-12-06_plateforme-de-candidature-en-master_presidence-de-l-universite-paris-saclay.pdf",
+        "author": [
+            {
+                "literal": "Présidence de l'Université Paris Saclay"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-12-06"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
