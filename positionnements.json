@@ -4713,5 +4713,51 @@
             "raw": "2021-12-06"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "Carrières académiques-590",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "la CP-CNU, réunie en Assemblée Générale le 10 décembre 2021, a décidé d’appeler à la démission des membres des sections CNU en l’absence de garantie apportée par la ministre sur le maintien des contingents nationaux avant le 10 mars 2022.",
+        "container-title": "",
+        "title": "Suppression de l’avancement de grade des enseignant.e.s- chercheur.e.s au niveau national",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-12-10_suppression-de-lavancement-de-grade-des-enseignant-e-s-chercheur-e-s-au-niveau-national_cp-cnu.pdf",
+        "author": [
+            {
+                "literal": "CP-CNU"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-12-10"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Carrières académiques-591",
+        "type": "personal_communication",
+        "letterType": "Lettre",
+        "abstract": "Seule l'assurance du maintien du contingent national d'avancements sera à même de restaurer le climat propice à la concertation et nous permettra de reprendre nos travaux avec nos partenaires.",
+        "container-title": "",
+        "title": "Lettre contingent CNU",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-12-10_lettre-contingent-cnu_sylvie-baueur-president-de-la-cp-cnu.pdf",
+        "author": [
+            {
+                "literal": "Sylvie Baueur (Président de la CP-CNU)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Madame la Ministre de l'ESRI"
+            }
+        ],
+        "issued": {
+            "raw": "2021-12-10"
+        },
+        "note": "Très défavorable"
     }
 ]
