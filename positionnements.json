@@ -4759,5 +4759,51 @@
             "raw": "2021-12-10"
         },
         "note": "Très défavorable"
+    },
+    {
+        "id": "TrouverMonMaster-592",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "La motion demande le report de la mise en place de la nouvelle plateforme de candidature en master \"décidée trop tardivement et selon un calendrier inadapté\" et \"rappelle que cette réforme doit se faire dans le strict respect du droit à la poursuite d'études en master\" et avec \"des moyens financiers et humains\".",
+        "container-title": "Université Grenoble Alpes",
+        "title": "Demande de report de la nouvelle plateforme de candidature en master",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-12-16_demande-de-report-de-la-nouvelle-plateforme-de-candidature-en-master_cfvu-de-l-universite-grenoble-alpes-universite-grenoble-alpes.pdf",
+        "author": [
+            {
+                "literal": "CFVU de l'Université Grenoble ALpes (Université Grenoble Alpes)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": "Madame la Ministre de l'enseignement supérieur et de la recherche"
+            }
+        ],
+        "issued": {
+            "raw": "2021-12-16"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "TrouverMonMaster-593",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Informé dans l’urgence d’une réflexion en cours concernant la mise en œuvre anticipée, à compter du printemps 2022 (initialement prévue pour 2023), d’une plateforme nationale de candidature en première année de master, le conseil de l’UFR 6 de l'Université Paul Valéry Montpellier demande a minima un report.",
+        "container-title": "",
+        "title": "Contre Trouvermonmaster et sa mise en place précipitée et sans concertation",
+        "URL": "https://www.cpesr.fr/uploads/motions/2021-12-06_contre-trouvermonmaster-et-sa-mise-en-place-precipitee-et-sans-concertation_ufr-6-universite-paul-valery.pdf",
+        "author": [
+            {
+                "literal": "UFR 6 Université Paul Valéry"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2021-12-06"
+        },
+        "note": "Plutôt défavorable"
     }
 ]
