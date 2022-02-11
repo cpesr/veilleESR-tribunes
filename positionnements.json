@@ -4623,7 +4623,7 @@
         "note": "Très défavorable"
     },
     {
-        "id": "Carrières académiques-585",
+        "id": "Carrières académiques ou CNU-585",
         "type": "personal_communication",
         "letterType": "Enquête",
         "abstract": "Cette enquête par questionnaire « Coup de Blouse » a été menée auprès de 481 docteur.e.s en biologie. Nous observons notamment que 23% des docteur.e.s ayant quitté la carrière académique ont obtenu un autre diplôme (master, DU, MBA, formation professionnalisante, etc) à la suite de leur doctorat. Cet état de fait pose question sur le positionnement du doctorat en France. Une corrélation (sans analyse statistique étant donné la taille de l'échantillon et la forme de l'étude) se dessine entre cette \"reformation\" et un taux plus faible de chômage / meilleur accès à l'emploi hors du secteur académique. Une liste de formations suivies par les docteur.e.s en biologie après leur thèse est collectée par cette enquête. ",
@@ -4715,7 +4715,7 @@
         "note": "Plutôt défavorable"
     },
     {
-        "id": "Carrières académiques-590",
+        "id": "Carrières académiques ou CNU-590",
         "type": "personal_communication",
         "letterType": "Motion",
         "abstract": "la CP-CNU, réunie en Assemblée Générale le 10 décembre 2021, a décidé d’appeler à la démission des membres des sections CNU en l’absence de garantie apportée par la ministre sur le maintien des contingents nationaux avant le 10 mars 2022.",
@@ -4738,7 +4738,7 @@
         "note": "Très défavorable"
     },
     {
-        "id": "Carrières académiques-591",
+        "id": "Carrières académiques ou CNU-591",
         "type": "personal_communication",
         "letterType": "Lettre",
         "abstract": "Seule l'assurance du maintien du contingent national d'avancements sera à même de restaurer le climat propice à la concertation et nous permettra de reprendre nos travaux avec nos partenaires.",
@@ -4805,5 +4805,51 @@
             "raw": "2021-12-06"
         },
         "note": "Plutôt défavorable"
+    },
+    {
+        "id": "Carrières académiques ou CNU-596",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Les  membres  du conseil expriment  donc  leurs  plus  vives  inquiétudes  quant  à  la  création  de  Chaires  de  Professeur Junior.  La  majorité  qui  s’est  exprimée  n’en  voit  pas  l’apport  et  s’en  étonne  alors  que  les  recrutements  sur  postes statutaires  ont  été  fortement  limités  ces  dernières  années.",
+        "container-title": "Université Paris Saclay",
+        "title": "Chaire  Professeur  Junior",
+        "URL": "https://www.cpesr.fr/uploads/motions/2022-02-01_chaire-professeur-junior_conseil-de-la-faculte-des-sciences-d-orsay-universite-paris-saclay.pdf",
+        "author": [
+            {
+                "literal": "Conseil de la Faculté des Sciences d'Orsay (Université Paris Saclay)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2022-02-01"
+        },
+        "note": "Très défavorable"
+    },
+    {
+        "id": "Libertés académiques-599",
+        "type": "personal_communication",
+        "letterType": "Motion",
+        "abstract": "Les attaques médiatiques venues d’une fraction du monde intellectuel, mais aussi du monde politique contre l’autonomie de la recherche dans le domaine des sciences humaines et sociales témoignent d’une intrusion inquiétante – et inédite – du pouvoir politique dans le monde universitaire de la formation et de la recherche.",
+        "container-title": "academia.hypotheses.org",
+        "title": "Pour les libertés académiques, contre les attaques médiatiques venues d’une fraction du monde intellectuel, mais aussi du monde politique contre l’autonomie de la recherche dans le domaine des sciences humaines et sociales",
+        "URL": "https://academia.hypotheses.org/35171",
+        "author": [
+            {
+                "literal": "section 17 CNU unanimité moins un bulletin blanc (academia.hypotheses.org)"
+            }
+        ],
+        "recipient": [
+            {
+                "literal": ""
+            }
+        ],
+        "issued": {
+            "raw": "2022-02-09"
+        },
+        "note": "Très défavorable"
     }
 ]
